@@ -114,3 +114,19 @@ payment_intents/pi_3QD36DCPjevOheLT1rd8Xvrq?expand[]=payment_method request: Arr
 payment_intents/pi_3QD36DCPjevOheLT1rd8Xvrq?expand[]=payment_method response with stripe-version: 2024-06-20
 ====End Log====
 
+2024-11-05T13:00:46+00:00 DEBUG 
+====Stripe Version: 8.8.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2024-11-05T13:00:57+00:00 DEBUG 
+====Stripe Version: 8.8.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+

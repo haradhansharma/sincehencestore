@@ -61,10 +61,10 @@ define( 'WP_CACHE', true );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'sincehencestore' );
+define( 'DB_NAME', 'sicnehencestore' );
 
 /** Database username */
-define( 'DB_USER', 'sincehencestore' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
 define( 'DB_PASSWORD', '' );
@@ -89,14 +89,7 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '9jxmm2z2rqqa3czliz92ptsdqlejw0go6lfcidmlz6p70pencyvmcsbxncfgtgq7' );
-define( 'SECURE_AUTH_KEY',  'w2sc3cnfoh4iconjk5bk0uunsonpyrd2k3970l49zf7rbzqma2r28o0fkvqv4fem' );
-define( 'LOGGED_IN_KEY',    'p3rsm0bnfyzvpbefhlxz7mgdzxym3nz2lr6yiietpcvzbxp36owvniut9aectdpd' );
-define( 'NONCE_KEY',        'ylepxtvaeybf95rakvezvjf2vn7k2uzjcwzw8nsknqzuj5i2hj6jmmled96v357o' );
-define( 'AUTH_SALT',        'aldynau88wxxg4ype3kp90aqfbh19gblyzjyleuxdzmfajrfvxw5ish1wscctekb' );
-define( 'SECURE_AUTH_SALT', 'qepyjba174tqbgscyx2kzvpz4cy8iuj3steptjctmskernpjslmvicaexjyjj6rt' );
-define( 'LOGGED_IN_SALT',   'xlzbiivt75pi5rys0uyvk90oj4qbyu0khiinetelnt82bhjnrsytpap7a4hbvqjm' );
-define( 'NONCE_SALT',       'mjrzzmoz4vytch3x7f4x7ceafbr5rvg5rndlvlvwbgpbxmysaiuqukrnxwgmqlxh' );
+
 
 /**#@-*/
 
@@ -120,7 +113,7 @@ $table_prefix = 'store_';
  *
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
