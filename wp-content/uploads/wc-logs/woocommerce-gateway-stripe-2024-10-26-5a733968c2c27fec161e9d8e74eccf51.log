@@ -1,0 +1,555 @@
+2024-10-26T01:12:33+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T03:13:33+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T05:14:03+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T07:15:37+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T09:17:32+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T11:17:37+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T13:18:29+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T15:22:29+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T16:38:52+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers request: Array
+(
+    [email] => memabramo1981@gmail.com
+    [description] => Name:  , Username: memabramo1981
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+    [address] => Array
+        (
+            [line1] => 
+            [line2] => 
+            [postal_code] => 
+            [city] => 
+            [state] => 
+            [country] => 
+        )
+
+)
+
+====End Log====
+
+2024-10-26T16:38:52+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-26T16:38:52+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+setup_intents request: Array
+(
+    [payment_method] => pm_1QED0oCPjevOheLTON4VZnUP
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_R6Pq52x67a2qFy
+    [confirm] => true
+    [use_stripe_sdk] => true
+    [mandate_data] => Array
+        (
+            [customer_acceptance] => Array
+                (
+                    [type] => online
+                    [online] => Array
+                        (
+                            [ip_address] => 108.4.48.231
+                            [user_agent] => WooCommerce Stripe Gateway8.8.0; https://sincehence.store
+                        )
+
+                )
+
+        )
+
+)
+
+====End Log====
+
+2024-10-26T16:38:54+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+setup_intents response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-26T16:38:54+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Failed to create and confirm setup intent. stdClass Object
+(
+    [code] => card_declined
+    [decline_code] => generic_decline
+    [doc_url] => https://stripe.com/docs/error-codes/card-declined
+    [message] => Your card was declined.
+    [payment_method] => stdClass Object
+        (
+            [id] => pm_1QED0oCPjevOheLTON4VZnUP
+            [object] => payment_method
+            [allow_redisplay] => unspecified
+            [billing_details] => stdClass Object
+                (
+                    [address] => stdClass Object
+                        (
+                            [city] => 
+                            [country] => US
+                            [line1] => 
+                            [line2] => 
+                            [postal_code] => 99613
+                            [state] => 
+                        )
+
+                    [email] => 
+                    [name] => 
+                    [phone] => 
+                )
+
+            [card] => stdClass Object
+                (
+                    [brand] => visa
+                    [checks] => stdClass Object
+                        (
+                            [address_line1_check] => 
+                            [address_postal_code_check] => unchecked
+                            [cvc_check] => unchecked
+                        )
+
+                    [country] => US
+                    [display_brand] => visa
+                    [exp_month] => 6
+                    [exp_year] => 2028
+                    [fingerprint] => f83ecc4monXcXcRl
+                    [funding] => prepaid
+                    [generated_from] => 
+                    [last4] => 8336
+                    [networks] => stdClass Object
+                        (
+                            [available] => Array
+                                (
+                                    [0] => visa
+                                )
+
+                            [preferred] => 
+                        )
+
+                    [three_d_secure_usage] => stdClass Object
+                        (
+                            [supported] => 1
+                        )
+
+                    [wallet] => 
+                )
+
+            [created] => 1729960730
+            [customer] => 
+            [livemode] => 1
+            [metadata] => stdClass Object
+                (
+                )
+
+            [radar_options] => stdClass Object
+                (
+                )
+
+            [type] => card
+        )
+
+    [request_log_url] => https://dashboard.stripe.com/acct_1GYVUACPjevOheLT/logs/req_vAOzybDJGjdd7y?t=1729960733
+    [setup_intent] => stdClass Object
+        (
+            [id] => seti_1QED0rCPjevOheLTvqxfuDPT
+            [object] => setup_intent
+            [application] => ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn
+            [automatic_payment_methods] => 
+            [cancellation_reason] => 
+            [client_secret] => seti_1QED0rCPjevOheLTvqxfuDPT_secret_R6Pqu7xPaOffYZtKq6cr0ixZ7GwH1EZ
+            [created] => 1729960733
+            [customer] => cus_R6Pq52x67a2qFy
+            [description] => 
+            [flow_directions] => 
+            [last_setup_error] => stdClass Object
+                (
+                    [code] => card_declined
+                    [decline_code] => generic_decline
+                    [doc_url] => https://stripe.com/docs/error-codes/card-declined
+                    [message] => Your card was declined.
+                    [payment_method] => stdClass Object
+                        (
+                            [id] => pm_1QED0oCPjevOheLTON4VZnUP
+                            [object] => payment_method
+                            [allow_redisplay] => unspecified
+                            [billing_details] => stdClass Object
+                                (
+                                    [address] => stdClass Object
+                                        (
+                                            [city] => 
+                                            [country] => US
+                                            [line1] => 
+                                            [line2] => 
+                                            [postal_code] => 99613
+                                            [state] => 
+                                        )
+
+                                    [email] => 
+                                    [name] => 
+                                    [phone] => 
+                                )
+
+                            [card] => stdClass Object
+                                (
+                                    [brand] => visa
+                                    [checks] => stdClass Object
+                                        (
+                                            [address_line1_check] => 
+                                            [address_postal_code_check] => unchecked
+                                            [cvc_check] => unchecked
+                                        )
+
+                                    [country] => US
+                                    [display_brand] => visa
+                                    [exp_month] => 6
+                                    [exp_year] => 2028
+                                    [fingerprint] => f83ecc4monXcXcRl
+                                    [funding] => prepaid
+                                    [generated_from] => 
+                                    [last4] => 8336
+                                    [networks] => stdClass Object
+                                        (
+                                            [available] => Array
+                                                (
+                                                    [0] => visa
+                                                )
+
+                                            [preferred] => 
+                                        )
+
+                                    [three_d_secure_usage] => stdClass Object
+                                        (
+                                            [supported] => 1
+                                        )
+
+                                    [wallet] => 
+                                )
+
+                            [created] => 1729960730
+                            [customer] => 
+                            [livemode] => 1
+                            [metadata] => stdClass Object
+                                (
+                                )
+
+                            [radar_options] => stdClass Object
+                                (
+                                )
+
+                            [type] => card
+                        )
+
+                    [type] => card_error
+                )
+
+            [latest_attempt] => setatt_1QED0rCPjevOheLT3B9B9ltw
+            [livemode] => 1
+            [mandate] => 
+            [metadata] => stdClass Object
+                (
+                )
+
+            [next_action] => 
+            [on_behalf_of] => 
+            [payment_method] => 
+            [payment_method_configuration_details] => 
+            [payment_method_options] => stdClass Object
+                (
+                    [card] => stdClass Object
+                        (
+                            [mandate_options] => 
+                            [network] => 
+                            [request_three_d_secure] => automatic
+                        )
+
+                )
+
+            [payment_method_types] => Array
+                (
+                    [0] => card
+                )
+
+            [single_use_mandate] => 
+            [status] => requires_payment_method
+            [usage] => off_session
+        )
+
+    [type] => card_error
+)
+
+====End Log====
+
+2024-10-26T16:38:54+00:00 DEBUG Webhook received: setup_intent.setup_failed
+2024-10-26T16:38:54+00:00 DEBUG Webhook body: {
+  "id": "evt_1QED0sCPjevOheLTeokbLwnb",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1729960733,
+  "data": {
+    "object": {
+      "id": "seti_1QED0rCPjevOheLTvqxfuDPT",
+      "object": "setup_intent",
+      "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+      "automatic_payment_methods": null,
+      "cancellation_reason": null,
+      "client_secret": "seti_1QED0rCPjevOheLTvqxfuDPT_secret_R6Pqu7xPaOffYZtKq6cr0ixZ7GwH1EZ",
+      "created": 1729960733,
+      "customer": "cus_R6Pq52x67a2qFy",
+      "description": null,
+      "flow_directions": null,
+      "last_setup_error": {
+        "code": "card_declined",
+        "decline_code": "generic_decline",
+        "doc_url": "https://stripe.com/docs/error-codes/card-declined",
+        "message": "Your card was declined.",
+        "payment_method": {
+          "id": "pm_1QED0oCPjevOheLTON4VZnUP",
+          "object": "payment_method",
+          "allow_redisplay": "unspecified",
+          "billing_details": {
+            "address": {
+              "city": null,
+              "country": "US",
+              "line1": null,
+              "line2": null,
+              "postal_code": "99613",
+              "state": null
+            },
+            "email": null,
+            "name": null,
+            "phone": null
+          },
+          "card": {
+            "brand": "visa",
+            "checks": {
+              "address_line1_check": null,
+              "address_postal_code_check": "unchecked",
+              "cvc_check": "unchecked"
+            },
+            "country": "US",
+            "display_brand": "visa",
+            "exp_month": 6,
+            "exp_year": 2028,
+            "fingerprint": "pBU3CV9VuodMwxBD",
+            "funding": "prepaid",
+            "generated_from": null,
+            "last4": "8336",
+            "networks": {
+              "available": [
+                "visa"
+              ],
+              "preferred": null
+            },
+            "three_d_secure_usage": {
+              "supported": true
+            },
+            "wallet": null
+          },
+          "created": 1729960730,
+          "customer": null,
+          "livemode": true,
+          "metadata": {
+          },
+          "radar_options": {
+          },
+          "type": "card"
+        },
+        "type": "card_error"
+      },
+      "latest_attempt": "setatt_1QED0rCPjevOheLT3B9B9ltw",
+      "livemode": true,
+      "mandate": null,
+      "metadata": {
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": null,
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        }
+      },
+      "payment_method_types": [
+        "card"
+      ],
+      "single_use_mandate": null,
+      "status": "requires_payment_method",
+      "usage": "off_session"
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_vAOzybDJGjdd7y",
+    "idempotency_key": "694dc852-24d3-4469-a51e-cef2da449466"
+  },
+  "type": "setup_intent.setup_failed"
+}
+2024-10-26T16:38:54+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Could not find order via setup intent ID: seti_1QED0rCPjevOheLTvqxfuDPT
+====End Log====
+
+2024-10-26T17:27:20+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T19:27:26+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:13+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:14+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:14+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:15+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:15+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:16+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:16+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:17+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:18+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T21:31:18+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-26T23:32:29+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+

@@ -1,0 +1,71 @@
+2024-10-29T03:02:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 79): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 81): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 83): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 85): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 87): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 89): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 91): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 93): ["SKIN CARE AND BEAUTY"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 95): ["SKIN CARE AND BEAUTY"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 97): ["SKIN CARE AND BEAUTY"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 99): ["MENS HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 101): ["MENS HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 103): ["MENS HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 105): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 107): ["HANGOVER"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 109): ["HANGOVER"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 111): ["HANGOVER"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 113): ["HANGOVER"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 115): ["HANGOVER"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 117): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 119): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 121): ["CBD REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 123): ["HAIR GROWTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 125): ["HAIR GROWTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 127): ["HAIR GROWTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 129): ["SLEEP REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 131): ["SLEEP REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 133): ["SLEEP REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 135): ["SLEEP REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 137): ["SLEEP REMEDIES"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 139): ["HANGOVER"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 141): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 143): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 145): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 147): ["KETO"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 149): ["MENS HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 151): ["BLOOD SUGAR"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 153): ["BLOOD SUGAR"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 155): ["BRAIN HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 157): ["BRAIN HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 159): ["BRAIN HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 161): ["BRAIN HEALTH"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 163): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 165): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 167): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 169): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 171): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 173): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 175): ["PAIN RELIEF"].
+2024-10-29T03:02:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 177): ["PAIN RELIEF"].
+2024-10-29T03:02:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 50 products:
+[{"woocommerce_id":79,"google_id":"online:en:GB:gla_79"},{"woocommerce_id":81,"google_id":"online:en:GB:gla_81"},{"woocommerce_id":83,"google_id":"online:en:GB:gla_83"},{"woocommerce_id":85,"google_id":"online:en:GB:gla_85"},{"woocommerce_id":87,"google_id":"online:en:GB:gla_87"},{"woocommerce_id":89,"google_id":"online:en:GB:gla_89"},{"woocommerce_id":91,"google_id":"online:en:GB:gla_91"},{"woocommerce_id":93,"google_id":"online:en:GB:gla_93"},{"woocommerce_id":95,"google_id":"online:en:GB:gla_95"},{"woocommerce_id":97,"google_id":"online:en:GB:gla_97"},{"woocommerce_id":99,"google_id":"online:en:GB:gla_99"},{"woocommerce_id":101,"google_id":"online:en:GB:gla_101"},{"woocommerce_id":103,"google_id":"online:en:GB:gla_103"},{"woocommerce_id":105,"google_id":"online:en:GB:gla_105"},{"woocommerce_id":107,"google_id":"online:en:GB:gla_107"},{"woocommerce_id":109,"google_id":"online:en:GB:gla_109"},{"woocommerce_id":111,"google_id":"online:en:GB:gla_111"},{"woocommerce_id":113,"google_id":"online:en:GB:gla_113"},{"woocommerce_id":115,"google_id":"online:en:GB:gla_115"},{"woocommerce_id":117,"google_id":"online:en:GB:gla_117"},{"woocommerce_id":119,"google_id":"online:en:GB:gla_119"},{"woocommerce_id":121,"google_id":"online:en:GB:gla_121"},{"woocommerce_id":123,"google_id":"online:en:GB:gla_123"},{"woocommerce_id":125,"google_id":"online:en:GB:gla_125"},{"woocommerce_id":127,"google_id":"online:en:GB:gla_127"},{"woocommerce_id":129,"google_id":"online:en:GB:gla_129"},{"woocommerce_id":131,"google_id":"online:en:GB:gla_131"},{"woocommerce_id":133,"google_id":"online:en:GB:gla_133"},{"woocommerce_id":135,"google_id":"online:en:GB:gla_135"},{"woocommerce_id":137,"google_id":"online:en:GB:gla_137"},{"woocommerce_id":139,"google_id":"online:en:GB:gla_139"},{"woocommerce_id":141,"google_id":"online:en:GB:gla_141"},{"woocommerce_id":143,"google_id":"online:en:GB:gla_143"},{"woocommerce_id":145,"google_id":"online:en:GB:gla_145"},{"woocommerce_id":147,"google_id":"online:en:GB:gla_147"},{"woocommerce_id":149,"google_id":"online:en:GB:gla_149"},{"woocommerce_id":151,"google_id":"online:en:GB:gla_151"},{"woocommerce_id":153,"google_id":"online:en:GB:gla_153"},{"woocommerce_id":155,"google_id":"online:en:GB:gla_155"},{"woocommerce_id":157,"google_id":"online:en:GB:gla_157"},{"woocommerce_id":159,"google_id":"online:en:GB:gla_159"},{"woocommerce_id":161,"google_id":"online:en:GB:gla_161"},{"woocommerce_id":163,"google_id":"online:en:GB:gla_163"},{"woocommerce_id":165,"google_id":"online:en:GB:gla_165"},{"woocommerce_id":167,"google_id":"online:en:GB:gla_167"},{"woocommerce_id":169,"google_id":"online:en:GB:gla_169"},{"woocommerce_id":171,"google_id":"online:en:GB:gla_171"},{"woocommerce_id":173,"google_id":"online:en:GB:gla_173"},{"woocommerce_id":175,"google_id":"online:en:GB:gla_175"},{"woocommerce_id":177,"google_id":"online:en:GB:gla_177"}]
+2024-10-29T03:37:28+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v16.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "CUSTOMER_NOT_ENABLED"
+                    },
+                    "message": "The customer account can't be accessed because it is not yet enabled or has been deactivated."
+                }
+            ],
+            "requestId": "Rbyju1bdCz7JL5MzUWeJjw"
+        }
+    ]
+}

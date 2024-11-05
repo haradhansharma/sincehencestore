@@ -1,0 +1,1335 @@
+2024-10-10T00:14:32+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728519250,"event_id":"d298601e-70e6-4708-8b4c-9e1e2fda2e8c","event_source_url":"https:\/\/sincehence.store\/product\/potency-boosting-patches\/?v=7885444af42e","custom_data":{"content_name":"Potency Patches | Natural Pain Relief | Immune System Support | 30 Day Supply | Men Health","content_ids":"[\"SHSUP-TB00038_103\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00038_103\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.60.157","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.63729s
+ CONTEXT: {"_legacy":true}
+2024-10-10T00:14:32+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AdoZTg2w8mxszQcDtTSAjIt"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T00:22:51+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.50304s
+ CONTEXT: {"_legacy":true}
+2024-10-10T00:22:51+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T01:17:56+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.4331s
+ CONTEXT: {"_legacy":true}
+2024-10-10T01:17:56+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T02:17:58+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.39304s
+ CONTEXT: {"_legacy":true}
+2024-10-10T02:17:58+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T03:10:30+00:00 NOTICE Generating a fresh product feed file CONTEXT: {"_legacy":true}
+2024-10-10T03:10:32+00:00 NOTICE Product feed file generated CONTEXT: {"_legacy":true}
+2024-10-10T03:20:17+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.43151s
+ CONTEXT: {"_legacy":true}
+2024-10-10T03:20:17+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T04:18:18+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.40129s
+ CONTEXT: {"_legacy":true}
+2024-10-10T04:18:18+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T04:59:34+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728536372,"event_id":"f432fb2a-a4a3-43c6-a203-0906e57e1381","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-cream-jar\/?v=7885444af42e","custom_data":{"content_name":"Pain Relief Cream | 250MG CBD Isolate | Fast-Acting | Soothing | Cruelty-Free | Made in USA","content_ids":"[\"SHSUP-TB00005_169\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00005_169\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"27.95","currency":"USD"},"user_data":{"client_ip_address":"136.243.220.211","client_user_agent":"Mozilla\/5.0 (compatible; DataForSeoBot\/1.0; +https:\/\/dataforseo.com\/dataforseo-bot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40339s
+ CONTEXT: {"_legacy":true}
+2024-10-10T04:59:34+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A0b7TctVfIRqrko9mqQF5al"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:01:13+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728536471,"event_id":"dab5af14-707a-4a3c-935c-8180e3341ae9","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-capsule-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"CBD Veggie Caps \u2013 300MG | Pain Relief Suppliments | Vegan | GMO-Free | Made in USA","content_ids":"[\"SHSUP-TB00007_165\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00007_165\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"136.243.220.211","client_user_agent":"Mozilla\/5.0 (compatible; DataForSeoBot\/1.0; +https:\/\/dataforseo.com\/dataforseo-bot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38875s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:01:13+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AazVxsPqRslMdAmB5sjtjSC"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:04:07+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728536646,"event_id":"e6925acd-d67a-4963-a68a-a2d6dbce39ab","event_source_url":"https:\/\/sincehence.store\/product\/sleep-patch-15-days-pack\/?v=7885444af42e","custom_data":{"content_name":"Sleep Patches | 15 Day Pack | Achieve a Restful Night Sleep | Natural Ingredients","content_ids":"[\"SHSUP-TB00024_131\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00024_131\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"14.95","currency":"USD"},"user_data":{"client_ip_address":"136.243.220.211","client_user_agent":"Mozilla\/5.0 (compatible; DataForSeoBot\/1.0; +https:\/\/dataforseo.com\/dataforseo-bot)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40119s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:04:07+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AnE6vEjE43mhSBC2Ednio4Z"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:04:29+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728536667,"event_id":"b6822979-8bbd-4ef0-bf49-e78b77588e44","event_source_url":"https:\/\/sincehence.store\/product\/berberine-capsules\/?v=7885444af42e","custom_data":{"content_name":"Berberine Complex | Natural Dietary Supplement | 60 Capsules | Overall Wellness | Healthy Blood Sugar | Metabolic Health","content_ids":"[\"SHSUP-TB00014_151\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00014_151\",\"quantity\":1}]","content_category":"BLOOD SUGAR","value":"39.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37797s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:04:29+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A8ZJP7q-8GOorfm4htlsDs8"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:17:54+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.43007s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:17:54+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:18:22+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728537501,"event_id":"1d71b4fb-a9c0-4158-814c-a2637283d4a7","event_source_url":"https:\/\/sincehence.store\/product-category\/blood-sugar\/?v=7885444af42e","custom_data":{"content_name":"BLOOD SUGAR","content_category":"BLOOD SUGAR","content_ids":"[\"SHSUP-TB00014_151\",\"SHSUP-TB00013_153\"]","content_type":"product","contents":[{"id":"SHSUP-TB00014_151","quantity":1},{"id":"SHSUP-TB00013_153","quantity":1}]},"user_data":{"client_ip_address":"136.243.220.211","client_user_agent":"Mozilla\/5.0 (compatible; DataForSeoBot\/1.0; +https:\/\/dataforseo.com\/dataforseo-bot)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40689s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:18:22+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AU5rAaekBD1oCoOuupBpsO7"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:18:27+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728537506,"event_id":"97f21ca1-77a6-446a-b353-a1eeba03ba4c","event_source_url":"https:\/\/sincehence.store\/product-category\/sleep\/?v=7885444af42e","custom_data":{"content_name":"SLEEP REMEDIES","content_category":"SLEEP REMEDIES","content_ids":"[\"SHSUP-TB00021_137\",\"SHSUP-TB00024_131\",\"SHSUP-TB00025_129\",\"SHSUP-TB00023_133\",\"SHSUP-TB00022_135\"]","content_type":"product","contents":[{"id":"SHSUP-TB00021_137","quantity":1},{"id":"SHSUP-TB00024_131","quantity":1},{"id":"SHSUP-TB00025_129","quantity":1},{"id":"SHSUP-TB00023_133","quantity":1},{"id":"SHSUP-TB00022_135","quantity":1}]},"user_data":{"client_ip_address":"136.243.220.211","client_user_agent":"Mozilla\/5.0 (compatible; DataForSeoBot\/1.0; +https:\/\/dataforseo.com\/dataforseo-bot)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40488s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:18:27+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2NqOZFZolq7IN4e_hC7lNA"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:18:31+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728537510,"event_id":"dfe45c9f-283d-4d23-ab29-aa80e507a7c6","event_source_url":"https:\/\/sincehence.store\/product\/cbd-oil-single-bottle\/?fbclid=IwZXh0bgNhZW0CMTEAAR2Pq6Jcae74FmQMOsEXL6A0z7WospQXf3sLQ6hrYIGYfFCi8qfVTztCTYM_aem_B6sFXfOOtLnqwW3ht6-gJg&v=7885444af42e","custom_data":{"content_name":"Peppermint CBD Oil - 500MG CBD Isolate - 16.66MG Per ml - Refreshing Flavor, Natural Dietary Supplement - Made in the USA, GMO-Free","content_ids":"[\"SHSUP-TB00047_85\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00047_85\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"136.243.220.211","client_user_agent":"Mozilla\/5.0 (compatible; DataForSeoBot\/1.0; +https:\/\/dataforseo.com\/dataforseo-bot)","fbc":"fb.1.1728537510.IwZXh0bgNhZW0CMTEAAR2Pq6Jcae74FmQMOsEXL6A0z7WospQXf3sLQ6hrYIGYfFCi8qfVTztCTYM_aem_B6sFXfOOtLnqwW3ht6-gJg","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39839s
+ CONTEXT: {"_legacy":true}
+2024-10-10T05:18:31+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A33K3W_oh7qejU99SkSs3Ak"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:22:39+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.40357s
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:22:39+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:38:02+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728542276,"event_id":"ddf43ce5-e21c-46e4-a55f-6a977b3e4e72","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-3-pack\/?v=7885444af42e","custom_data":{"content_name":"Hangover Patches | 3 Count | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00036_107\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00036_107\",\"quantity\":1}]","content_category":"HANGOVER","value":"7.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.121.21","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38872s
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:38:02+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2lTwH5ymYYJu1yg973HeWb"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:38:21+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728542299,"event_id":"a57a5d70-60ee-4a60-8a2b-862589adcd5a","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-15-pack\/?v=7885444af42e","custom_data":{"content_name":"Hangover Patches | 15 Patches | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00034_111\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00034_111\",\"quantity\":1}]","content_category":"HANGOVER","value":"15.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.98.75","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38009s
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:38:21+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2msVixFftAKzL7FAaNfAeR"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:38:49+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728542327,"event_id":"2433402d-df94-4841-97b6-53cae2b058df","event_source_url":"https:\/\/sincehence.store\/product\/cbd-oil-single-bottlecats-dogs\/?v=7885444af42e","custom_data":{"content_name":"CBD Oil | Dog and Cat | 500MG | Calming Support for Pets | GMO-free formula","content_ids":"[\"SHSUP-TB00037_105\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00037_105\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.119.71","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37581s
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:38:49+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AzevgUA96YXAhsJnAHtT2D9"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:39:18+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728542356,"event_id":"589ac053-5f1e-41de-afff-9efca0ec70d0","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-oil-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Peppermint CBD Oil | Pain Relief  | 500MG | Refreshing Peppermint Flavor | GMO-Free | Made in USA","content_ids":"[\"SHSUP-TB00008_163\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00008_163\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.99.250","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39856s
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:39:18+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AZJ838XfrkhdvgFfVkcTKvi"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:44:06+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728542645,"event_id":"455f563a-3082-4a7a-acf8-9f99b46a6c3a","event_source_url":"https:\/\/sincehence.store\/product\/thyroid-support-capsules\/?v=7885444af42e","custom_data":{"content_name":"Thyroid Support Suppliments | Simply Nature Supplements | 60 Capsules | Natural Ingredients","content_ids":"[\"SHSUP-TB00018_143\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00018_143\",\"quantity\":1}]","content_category":"KETO","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.41764s
+ CONTEXT: {"_legacy":true}
+2024-10-10T06:44:06+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AlMc0JLMLeNJobWxNNZ72ru"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:16:24+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728544581,"event_id":"27bc2d52-8e65-4ea5-905d-ec8b7bfeb849","event_source_url":"https:\/\/sincehence.store\/product\/metabolism-boost-patches\/?v=7885444af42e","custom_data":{"content_name":"Metabolism Boost Patches - 30 Patches for Weight Management Support - Fucus Vesiculosus, 5-HTP, Guarana Extract - Vegan, Made in the USA","content_ids":"[\"SHSUP-TB00048_83\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00048_83\",\"quantity\":1}]","content_category":"KETO","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.115.133","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37608s
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:16:24+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A8ByHA4mhaJGnSJFcHfzG7T"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:17:53+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.39704s
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:17:53+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:50:35+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728546632,"event_id":"65e414e7-c1a0-431c-bcdc-3e8b1bf40cdf","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-party-pack-60\/?v=7885444af42e","custom_data":{"content_name":"Hangover Patches | 60 Patches | Party Pack  | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00032_115\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00032_115\",\"quantity\":1}]","content_category":"HANGOVER","value":"49.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.110.229","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37497s
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:50:35+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AD9eQgwAQCYxBYpi3AHILpq"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:50:52+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728546650,"event_id":"851cc8c6-73fc-4e38-bbe2-1ecd80daf46f","event_source_url":"https:\/\/sincehence.store\/product\/potency-boosting-patches\/?v=7885444af42e","custom_data":{"content_name":"Potency Patches | Natural Pain Relief | Immune System Support | 30 Day Supply | Men Health","content_ids":"[\"SHSUP-TB00038_103\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00038_103\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.45.151","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37088s
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:50:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A9cye6qj6c6pkwi8-2ckJYN"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:51:23+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728546681,"event_id":"9a2b3fec-39f5-4c7a-b384-ba9a77be602e","event_source_url":"https:\/\/sincehence.store\/product\/cbd-patches\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches - 8MG CBD Isolate Per Patch - 30 Patches - Long-Lasting 24-Hour Relief - Easy Application, Minimal Skin Irritation","content_ids":"[\"SHSUP-TB00045_89\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00045_89\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.27.138","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38391s
+ CONTEXT: {"_legacy":true}
+2024-10-10T07:51:23+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKxcVbGhM_OM8Yqe64lkTqf"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:00+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728548216,"event_id":"af827bd6-f845-4af5-bc35-760600b8e47f","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-24mg-extra-strength-patches-6-pack\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches | Pack of 6 | 24-Hour Relief | 24mg CBD Isolate | Convenient - Discreet - Targeted Application","content_ids":"[\"SHSUP-TB00003_173\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00003_173\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"14.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.118.210","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.51399s
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:00+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AIMsQGFzC4reWrSkx0tZEre"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:22+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728548239,"event_id":"1de51569-8e22-44b0-80e7-a2bf31933303","event_source_url":"https:\/\/sincehence.store\/product\/digestive-enzyme-capsules\/?v=7885444af42e","custom_data":{"content_name":"Digestive Enzyme Formula | 20 Potent Enzymes | Optimal Digestion | 60 Capsules | Supports Gluten Digestion | Plant-Based | Vegan","content_ids":"[\"SHSUP-TB00017_145\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00017_145\",\"quantity\":1}]","content_category":"KETO","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.33.177","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38318s
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:22+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A69bmi-EMvye1J-TLeu7mgf"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:49+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728548267,"event_id":"7b06f3a1-7137-4377-878a-0b64171ad96b","event_source_url":"https:\/\/sincehence.store\/product\/cbd-capsule-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"CBD Veggie Caps - 10MG CBD Isolate Per Capsule - 300MG Total - Vegan, GMO-Free, Made in the USA","content_ids":"[\"SHSUP-TB00046_87\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00046_87\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.127.228","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39051s
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:49+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ab8Lu5pPlF31sCqAWO72RWZ"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:52+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.38115s
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:17:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:18:18+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728548296,"event_id":"91efde31-9277-4532-9199-dcd076f77d66","event_source_url":"https:\/\/sincehence.store\/product\/choless-capsules\/?v=7885444af42e","custom_data":{"content_name":"Choless Suppliment |  Cholesterol Control Formula | 60 Vegan Capsules | Natural Ingredients","content_ids":"[\"SHSUP-TB00019_141\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00019_141\",\"quantity\":1}]","content_category":"KETO","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.118.224","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.3829s
+ CONTEXT: {"_legacy":true}
+2024-10-10T08:18:18+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2E6-t_WqyhODcU3hqvj_KA"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:01:17+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728550873,"event_id":"b6beb74a-3770-47d5-91a8-dd39bd9b1717","event_source_url":"https:\/\/sincehence.store\/product\/leg-cramp-cream\/?v=7885444af42e","custom_data":{"content_name":"Leg Cramp Relief Cream | Soothe | Relieve Muscle Cramps | Improve Circulation | Relax Muscles","content_ids":"[\"SHSUP-TB00021_137\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00021_137\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"17.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.34.95","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40374s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:01:17+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AfHOflkJF4rtAZBVCGGvyb4"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:02:36+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728550954,"event_id":"e8203c40-fc90-4a79-b626-c35867c367c6","event_source_url":"https:\/\/sincehence.store\/product\/thyroid-support-capsules\/?v=7885444af42e","custom_data":{"content_name":"Thyroid Support Suppliments | Simply Nature Supplements | 60 Capsules | Natural Ingredients","content_ids":"[\"SHSUP-TB00018_143\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00018_143\",\"quantity\":1}]","content_category":"KETO","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.37.107","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39402s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:02:36+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ArIrV7jdM-5PaGkRWshJJs8"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:18:03+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.44532s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:18:03+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:35:22+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728552919,"event_id":"3c8abdff-6abf-45de-b6f6-b025fb478631","event_source_url":"https:\/\/sincehence.store\/product\/the-pain-patch\/?v=0b3b97fa6688","custom_data":{"content_name":"Bio Frequency Pain Relief Patches | Drug-Free Pain Relief for Back - Neck - Knee Pain | Non-Invasive Pain Management","content_ids":"[\"SHSUP-TB00004_171\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00004_171\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.15","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.4693s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:35:22+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3nmrsVvHW303Ales7lbYSC"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:48:04+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728553680,"event_id":"1789ef7d-62fa-4739-9b0a-66e8f1677edf","event_source_url":"https:\/\/sincehence.store\/product\/vitamin-c-skin-toning-serum\/?v=0b3b97fa6688","custom_data":{"content_name":"Advanced Skin Toning Serum | Brighten Skin | Antioxidant","content_ids":"[\"SHSUP-TB00041_97\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00041_97\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.10","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45024s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:48:04+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AeV_yY57HrVmgpKeHbNxXAU"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:51:56+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728553913,"event_id":"8ef4d595-446d-44ab-8169-a12a05e7910a","event_source_url":"https:\/\/sincehence.store\/product\/focus-patches-30-day\/?v=0b3b97fa6688","custom_data":{"content_name":"Focus Patches | 30 Days Topical Skin Patches | Enhance Focus and Mental Clarity | Natural Ingredients","content_ids":"[\"SHSUP-TB00009_161\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00009_161\",\"quantity\":1}]","content_category":"BRAIN HEALTH","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.13","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45746s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:51:56+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A45kq070lB92DBGRfMS8vLJ"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:53:20+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728553998,"event_id":"66fe603a-2c61-409b-8def-641fd3636019","event_source_url":"https:\/\/sincehence.store\/product\/berberine-capsules\/?v=7885444af42e","custom_data":{"content_name":"Berberine Complex | Natural Dietary Supplement | 60 Capsules | Overall Wellness | Healthy Blood Sugar | Metabolic Health","content_ids":"[\"SHSUP-TB00014_151\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00014_151\",\"quantity\":1}]","content_category":"BLOOD SUGAR","value":"39.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.9","client_user_agent":"meta-externalagent\/1.1 (+https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39432s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:53:20+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKv1L_5FLqPXfFZxIZMGeeR"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:58:11+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728554288,"event_id":"199c1615-5fc8-4434-8538-51bed1c5438e","event_source_url":"https:\/\/sincehence.store\/product\/cbd-oil-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"Peppermint CBD Oil - 500MG CBD Isolate - 16.66MG Per ml - Refreshing Flavor, Natural Dietary Supplement - Made in the USA, GMO-Free","content_ids":"[\"SHSUP-TB00047_85\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00047_85\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.22","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45954s
+ CONTEXT: {"_legacy":true}
+2024-10-10T09:58:11+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aikir99z2tajnxUBmv9Vc5j"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:00:54+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728554451,"event_id":"38a77dbe-ed86-4846-97a9-dd5ca684e6e3","event_source_url":"https:\/\/sincehence.store\/product\/digestive-enzyme-capsules\/?v=0b3b97fa6688","custom_data":{"content_name":"Digestive Enzyme Formula | 20 Potent Enzymes | Optimal Digestion | 60 Capsules | Supports Gluten Digestion | Plant-Based | Vegan","content_ids":"[\"SHSUP-TB00017_145\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00017_145\",\"quantity\":1}]","content_category":"KETO","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.5","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43381s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:00:54+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AF5y0uCCt8ZsrNGhl3pS-h8"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:10:26+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555024,"event_id":"ac8eb8e6-0e79-4675-8eb9-2f68cd199467","event_source_url":"https:\/\/sincehence.store\/product\/hair-serum-60ml\/?v=7885444af42e","custom_data":{"content_name":"Hair Growth Serum | 60ml | Revitalize and Strengthen Hair | Natural Ingredients | Fuller - Healthier Hair","content_ids":"[\"SHSUP-TB00028_123\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00028_123\",\"quantity\":1}]","content_category":"HAIR GROWTH","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.11","client_user_agent":"meta-externalagent\/1.1 (+https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45365s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:10:26+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3VvJ139VtfgNewADz4Zwu9"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:16:02+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555360,"event_id":"030fcf47-00f3-4dc0-983b-0946bdc918e2","event_source_url":"https:\/\/sincehence.store\/product\/leg-cramp-cream\/?v=8bcc25c96aa5","custom_data":{"content_name":"Leg Cramp Relief Cream | Soothe | Relieve Muscle Cramps | Improve Circulation | Relax Muscles","content_ids":"[\"SHSUP-TB00021_137\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00021_137\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"17.95","currency":"USD"},"user_data":{"client_ip_address":"13.74.98.118","client_user_agent":"","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.47779s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:16:02+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AlWaqqLHxavV58SE0ADvWIY"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:17:30+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555448,"event_id":"1e9f18d9-fa53-47e9-9896-73da8f071c39","event_source_url":"https:\/\/sincehence.store\/product\/cbd-24mg-extra-strength-patches-30-pack\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches | 30 Pack | 24mg Extra Strength | Long-Lasting Relief | Convenient | Discreet","content_ids":"[\"SHSUP-TB00029_121\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00029_121\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"64.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.45.190","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.42372s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:17:31+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgEE0n_OQ3bmX3cb8ThosYg"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:17:53+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.51012s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:17:53+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:18:00+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555477,"event_id":"f06bdc5b-1671-4ee6-ab40-d2746add508a","event_source_url":"https:\/\/sincehence.store\/product\/cbd-24mg-extra-strength-patches-6-pack\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches | 6 Pack | 24mg Extra Strength | Long-Lasting Relief | Convenient | Discreet","content_ids":"[\"SHSUP-TB00031_117\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00031_117\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"14.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.112.215","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.42103s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:18:00+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANrtLGCQiIKQ1OWZTkFGRGk"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:18:35+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555512,"event_id":"341af8e5-c8a8-40b6-ac75-9e31b9bf1b33","event_source_url":"https:\/\/sincehence.store\/product\/sleep-patch-3-days-trial-pack\/?v=7885444af42e","custom_data":{"content_name":"Sleep Patches | 3 Day Pack | Achieve a Restful Night Sleep | Natural Ingredients","content_ids":"[\"SHSUP-TB00025_129\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00025_129\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"7.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.20","client_user_agent":"meta-externalagent\/1.1 (+https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43267s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:18:35+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AAx618uhnmLJ6MmUjEcsWmY"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:19:03+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555540,"event_id":"d0f14a25-9a6b-44f7-a718-afb095aba38a","event_source_url":"https:\/\/sincehence.store\/product\/cleanse-capsule-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Advanced Formula for Digestive Aid Cleanse Capsules - Natural Dietary Supplement for Gut Health - Promotes Healthy Digestion and Eases Bloating","content_ids":"[\"SHSUP-TB00049_81\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00049_81\",\"quantity\":1}]","content_category":"KETO","value":"20.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.22","client_user_agent":"meta-externalagent\/1.1 (+https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.471s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:19:03+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AcGQmQ9sTCndNNEjnxb9spZ"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:19:52+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728555589,"event_id":"9c8edb3c-8fbe-4c7a-b60d-5b1ae7e19910","event_source_url":"https:\/\/sincehence.store\/product\/focus-patches-30-day\/?v=7885444af42e","custom_data":{"content_name":"Focus Patches | 30 Days Topical Skin Patches | Enhance Focus and Mental Clarity | Natural Ingredients","content_ids":"[\"SHSUP-TB00009_161\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00009_161\",\"quantity\":1}]","content_category":"BRAIN HEALTH","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.15","client_user_agent":"meta-externalagent\/1.1 (+https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43745s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:19:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aowqs4-QXVc5pZ4iksT30lW"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:31:21+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728556278,"event_id":"8f85febe-d452-4bf9-bb30-90416a1f465b","event_source_url":"https:\/\/sincehence.store\/product\/keto-capsule-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"Keto BHB Advanced Weight Loss Formula Capsules - Faster Ketosis, Enhanced Fat Burning, Increased Energy - 60 Capsules","content_ids":"[\"SHSUP-TB00050_79\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00050_79\",\"quantity\":1}]","content_category":"KETO","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.9","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39621s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:31:21+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AgxTZj9YgPgRZ5S9UbL28-7"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:45:38+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728557133,"event_id":"5df00f7e-6c50-4e2f-bd01-86df92392a76","event_source_url":"https:\/\/sincehence.store\/product\/sleep-patch-30-days-pack\/?v=7885444af42e","custom_data":{"content_name":"Sleep Patches | 30 Days Pack | Achieve a Restful Night Sleep | Natural Ingredients","content_ids":"[\"SHSUP-TB00023_133\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00023_133\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"27.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.238","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43242s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:45:38+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A5G3aIGIkB1IxIIZiWyEhia"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:47:47+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728557264,"event_id":"630c28f6-2508-458e-9506-44fe93eb45fe","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-6-pack\/?v=7885444af42e","custom_data":{"content_name":"Hangover Patches | 6 Patches | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00035_109\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00035_109\",\"quantity\":1}]","content_category":"HANGOVER","value":"10.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.35.25","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.4205s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:47:47+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AfwD0bALvMquwgUL4xIWzML"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:48:10+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728557285,"event_id":"01f8334f-7d17-49ee-a8a6-1ce5fa46f6d3","event_source_url":"https:\/\/sincehence.store\/product\/liver-plast-capsules\/?v=7885444af42e","custom_data":{"content_name":"Liver-Plast Detox Support Suppliments | Natural Liver Health Formula | 60 Vegan Capsules","content_ids":"[\"SHSUP-TB00020_139\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00020_139\",\"quantity\":1}]","content_category":"HANGOVER","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.50.193","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.44335s
+ CONTEXT: {"_legacy":true}
+2024-10-10T10:48:10+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AeOAU5VWiseQ8l64bUTFgL9"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T11:03:21+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728558197,"event_id":"df78894a-5ca9-45c8-8591-46110d70d525","event_source_url":"https:\/\/sincehence.store\/product-category\/cbd\/?v=7885444af42e","custom_data":{"content_name":"CBD REMEDIES","content_category":"CBD REMEDIES","content_ids":"[\"SHSUP-TB00037_105\",\"SHSUP-TB00045_89\",\"SHSUP-TB00030_119\",\"SHSUP-TB00029_121\",\"SHSUP-TB00031_117\",\"SHSUP-TB00044_91\",\"SHSUP-TB00046_87\",\"SHSUP-TB00047_85\"]","content_type":"product","contents":[{"id":"SHSUP-TB00037_105","quantity":1},{"id":"SHSUP-TB00045_89","quantity":1},{"id":"SHSUP-TB00030_119","quantity":1},{"id":"SHSUP-TB00029_121","quantity":1},{"id":"SHSUP-TB00031_117","quantity":1},{"id":"SHSUP-TB00044_91","quantity":1},{"id":"SHSUP-TB00046_87","quantity":1},{"id":"SHSUP-TB00047_85","quantity":1}]},"user_data":{"client_ip_address":"47.128.33.216","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.4059s
+ CONTEXT: {"_legacy":true}
+2024-10-10T11:03:21+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AzOTi9DRmI5od-pzSyOmVz3"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T11:22:42+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.40446s
+ CONTEXT: {"_legacy":true}
+2024-10-10T11:22:42+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:02:16+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728561732,"event_id":"ff8a7f25-3e76-4988-a0d3-99bc81a7b114","event_source_url":"https:\/\/sincehence.store\/product\/the-pain-patch\/?v=7885444af42e","custom_data":{"content_name":"Bio Frequency Pain Relief Patches | Drug-Free Pain Relief for Back - Neck - Knee Pain | Non-Invasive Pain Management","content_ids":"[\"SHSUP-TB00004_171\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00004_171\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39531s
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:02:16+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AdkEnFUkytTifwt680FashB"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:21:20+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.39977s
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:21:20+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:21:23+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728562880,"event_id":"60d0be52-85e1-4318-817a-67843f25fee0","event_source_url":"https:\/\/sincehence.store\/product\/cbd-oil-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Peppermint CBD Oil - 500MG CBD Isolate - 16.66MG Per ml - Refreshing Flavor, Natural Dietary Supplement - Made in the USA, GMO-Free","content_ids":"[\"SHSUP-TB00047_85\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00047_85\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38797s
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:21:23+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3D2ZB_Oc_bNpxD8Rw9WMNN"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:25:44+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728563142,"event_id":"aa06721a-7874-4c58-98e1-aabaef9841aa","event_source_url":"https:\/\/sincehence.store\/product-category\/hair\/?v=7885444af42e","custom_data":{"content_name":"HAIR GROWTH","content_category":"HAIR GROWTH","content_ids":"[\"SHSUP-TB00027_125\",\"SHSUP-TB00028_123\",\"SHSUP-TB00026_127\"]","content_type":"product","contents":[{"id":"SHSUP-TB00027_125","quantity":1},{"id":"SHSUP-TB00028_123","quantity":1},{"id":"SHSUP-TB00026_127","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.42555s
+ CONTEXT: {"_legacy":true}
+2024-10-10T12:25:44+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AC-odEiUXSCRbkshmjNQWoG"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:14:15+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728566051,"event_id":"75747c32-7a04-4e1a-a934-cf32acc0d8a1","event_source_url":"https:\/\/sincehence.store\/product\/beauty-face-cream-single-jar\/?v=7885444af42e","custom_data":{"content_name":"Anti-Wrinkle Face Cream | Natural Ingredients | Cream Jar | Paraben-free","content_ids":"[\"SHSUP-TB00043_93\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00043_93\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40152s
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:14:15+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AWwLL74jO9IMTTk9nY9wkMf"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:18:43+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.39634s
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:18:43+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:38:01+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728567478,"event_id":"d26f8809-e830-4151-bdb9-e609f004c4c0","event_source_url":"https:\/\/sincehence.store\/product-category\/hangover\/?v=7885444af42e","custom_data":{"content_name":"HANGOVER","content_category":"HANGOVER","content_ids":"[\"SHSUP-TB00034_111\",\"SHSUP-TB00036_107\",\"SHSUP-TB00033_113\",\"SHSUP-TB00035_109\",\"SHSUP-TB00032_115\",\"SHSUP-TB00020_139\"]","content_type":"product","contents":[{"id":"SHSUP-TB00034_111","quantity":1},{"id":"SHSUP-TB00036_107","quantity":1},{"id":"SHSUP-TB00033_113","quantity":1},{"id":"SHSUP-TB00035_109","quantity":1},{"id":"SHSUP-TB00032_115","quantity":1},{"id":"SHSUP-TB00020_139","quantity":1}]},"user_data":{"client_ip_address":"47.128.62.139","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.3929s
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:38:01+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AV-JwIQX_vx8zQARIIvb2h1"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:39:32+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728567568,"event_id":"90f85ed4-2f76-4804-bfa5-908a7918e71c","event_source_url":"https:\/\/sincehence.store\/product\/brain-support-capsules\/?v=7885444af42e","custom_data":{"content_name":"Brain Support Capsules | Blood Sugar Support | Natural Dietary Supplement","content_ids":"[\"SHSUP-TB00012_155\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00012_155\",\"quantity\":1}]","content_category":"BRAIN HEALTH","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.54.26","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39111s
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:39:32+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AHjOXdb3F6vWG3ln5sXuIOw"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:51:30+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728568286,"event_id":"f65ab9a2-2574-45a7-9575-39e2183ef69e","event_source_url":"https:\/\/sincehence.store\/product\/hair-restoration-ultimate-combo\/?v=7885444af42e","custom_data":{"content_name":"Hair Growth Serum | Hair-Skin-Nails Supplement Combo | Ultimate Health","content_ids":"[\"SHSUP-TB00026_127\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00026_127\",\"quantity\":1}]","content_category":"HAIR GROWTH","value":"49.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39951s
+ CONTEXT: {"_legacy":true}
+2024-10-10T13:51:30+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"APirVY-Oc5A_2v3pFWqhlME"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:21:04+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.41354s
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:21:04+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:21:07+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728570065,"event_id":"3942f602-4fd5-40d7-924d-46523e5b5513","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-cream-jar\/?v=7885444af42e","custom_data":{"content_name":"Pain Relief Cream | 250MG CBD Isolate | Fast-Acting | Soothing | Cruelty-Free | Made in USA","content_ids":"[\"SHSUP-TB00005_169\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00005_169\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"27.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38412s
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:21:07+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AtRAh7Jy66_3UZa3UdDl_Pg"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:27:52+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728570470,"event_id":"b0bbaa30-9694-42bb-9bc7-9436412a9380","event_source_url":"https:\/\/sincehence.store\/product-category\/sleep\/?v=7885444af42e","custom_data":{"content_name":"SLEEP REMEDIES","content_category":"SLEEP REMEDIES","content_ids":"[\"SHSUP-TB00021_137\",\"SHSUP-TB00024_131\",\"SHSUP-TB00025_129\",\"SHSUP-TB00023_133\",\"SHSUP-TB00022_135\"]","content_type":"product","contents":[{"id":"SHSUP-TB00021_137","quantity":1},{"id":"SHSUP-TB00024_131","quantity":1},{"id":"SHSUP-TB00025_129","quantity":1},{"id":"SHSUP-TB00023_133","quantity":1},{"id":"SHSUP-TB00022_135","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39581s
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:27:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AWvij7BbU45gtuYOGnmcLjk"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:27:52+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728570469,"event_id":"7e6032a5-21fc-47f7-acce-790a0654c546","event_source_url":"https:\/\/sincehence.store\/product\/vitamin-c-skin-toning-serum\/?v=7885444af42e","custom_data":{"content_name":"Advanced Skin Toning Serum | Brighten Skin | Antioxidant","content_ids":"[\"SHSUP-TB00041_97\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00041_97\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37212s
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:27:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aa4LFFYxQFlT7uNHdG9OA3y"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:37:43+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728571061,"event_id":"91ef8bd1-205f-4665-8fb9-4b5d34169718","event_source_url":"https:\/\/sincehence.store\/product-category\/pain-relief\/?v=7885444af42e","custom_data":{"content_name":"PAIN RELIEF","content_category":"PAIN RELIEF","content_ids":"[\"SHSUP-TB00004_171\",\"SHSUP-TB00002_175\",\"SHSUP-TB00001_177\",\"SHSUP-TB00003_173\",\"SHSUP-TB00007_165\",\"SHSUP-TB00005_169\",\"SHSUP-TB00006_167\",\"SHSUP-TB00008_163\"]","content_type":"product","contents":[{"id":"SHSUP-TB00004_171","quantity":1},{"id":"SHSUP-TB00002_175","quantity":1},{"id":"SHSUP-TB00001_177","quantity":1},{"id":"SHSUP-TB00003_173","quantity":1},{"id":"SHSUP-TB00007_165","quantity":1},{"id":"SHSUP-TB00005_169","quantity":1},{"id":"SHSUP-TB00006_167","quantity":1},{"id":"SHSUP-TB00008_163","quantity":1}]},"user_data":{"client_ip_address":"47.128.97.159","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39019s
+ CONTEXT: {"_legacy":true}
+2024-10-10T14:37:43+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AyZQcHj4SxsR-ifchRn14u9"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:10:55+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728573052,"event_id":"a092338d-df7b-4476-8be6-ff8b44dcc00c","event_source_url":"https:\/\/sincehence.store\/product-category\/sleep\/?v=7885444af42e","custom_data":{"content_name":"SLEEP REMEDIES","content_category":"SLEEP REMEDIES","content_ids":"[\"SHSUP-TB00021_137\",\"SHSUP-TB00024_131\",\"SHSUP-TB00025_129\",\"SHSUP-TB00023_133\",\"SHSUP-TB00022_135\"]","content_type":"product","contents":[{"id":"SHSUP-TB00021_137","quantity":1},{"id":"SHSUP-TB00024_131","quantity":1},{"id":"SHSUP-TB00025_129","quantity":1},{"id":"SHSUP-TB00023_133","quantity":1},{"id":"SHSUP-TB00022_135","quantity":1}]},"user_data":{"client_ip_address":"47.128.44.67","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38338s
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:10:55+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AM-APkgg6WJWvsOWpZSPuNG"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:22:51+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.45663s
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:22:51+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:25:58+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728573954,"event_id":"f33ce347-a55f-4bb3-be1c-6eb03b32e6b5","event_source_url":"https:\/\/sincehence.store\/product\/cbd-patches\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD Patches - 8MG CBD Isolate Per Patch - 30 Patches - Long-Lasting 24-Hour Relief - Easy Application, Minimal Skin Irritation","content_ids":"[\"SHSUP-TB00045_89\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00045_89\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"43.135.133.194","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38334s
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:25:58+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ACbiNYHtJvY-lVMU3cqiSvk"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:30:38+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728574235,"event_id":"4d96d18a-1555-40fc-978b-250a7c0b2b50","event_source_url":"https:\/\/sincehence.store\/product\/testosterone-boost-capsules-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"Testosterone Advanced Formula | Increase Testosterone Levels | 60 Capsules","content_ids":"[\"SHSUP-TB00040_99\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00040_99\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"49.51.183.220","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40451s
+ CONTEXT: {"_legacy":true}
+2024-10-10T15:30:38+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AYdaD63juoIt_AjT5AZ0QhY"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T16:01:12+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728576070,"event_id":"8cb22d60-40f9-41d3-a8ea-b72247d48985","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-oil-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Peppermint CBD Oil | Pain Relief  | 500MG | Refreshing Peppermint Flavor | GMO-Free | Made in USA","content_ids":"[\"SHSUP-TB00008_163\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00008_163\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39035s
+ CONTEXT: {"_legacy":true}
+2024-10-10T16:01:12+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ad-7mGI4hDgDMjMd_lOUkD4"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T16:17:50+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.41104s
+ CONTEXT: {"_legacy":true}
+2024-10-10T16:17:50+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T16:58:10+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728579486,"event_id":"b5dacb9e-5717-4942-8b43-55bfbbd35dcb","event_source_url":"https:\/\/sincehence.store\/product-category\/keto\/?v=7885444af42e","custom_data":{"content_name":"KETO","content_category":"KETO","content_ids":"[\"SHSUP-TB00049_81\",\"SHSUP-TB00019_141\",\"SHSUP-TB00017_145\",\"SHSUP-TB00016_147\",\"SHSUP-TB00050_79\",\"SHSUP-TB00048_83\",\"SHSUP-TB00018_143\"]","content_type":"product","contents":[{"id":"SHSUP-TB00049_81","quantity":1},{"id":"SHSUP-TB00019_141","quantity":1},{"id":"SHSUP-TB00017_145","quantity":1},{"id":"SHSUP-TB00016_147","quantity":1},{"id":"SHSUP-TB00050_79","quantity":1},{"id":"SHSUP-TB00048_83","quantity":1},{"id":"SHSUP-TB00018_143","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.238","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43262s
+ CONTEXT: {"_legacy":true}
+2024-10-10T16:58:10+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A4BYg4xvDBKUqRBPAxVvuBJ"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T17:17:47+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.46336s
+ CONTEXT: {"_legacy":true}
+2024-10-10T17:17:47+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T17:26:32+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728581190,"event_id":"2247a6d4-1274-42f3-bee3-47c6817243d6","event_source_url":"https:\/\/sincehence.store\/product\/liver-plast-capsules\/?v=7885444af42e","custom_data":{"content_name":"Liver-Plast Detox Support Suppliments | Natural Liver Health Formula | 60 Vegan Capsules","content_ids":"[\"SHSUP-TB00020_139\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00020_139\",\"quantity\":1}]","content_category":"HANGOVER","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40841s
+ CONTEXT: {"_legacy":true}
+2024-10-10T17:26:32+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A_CnkffvKm59ne1ZTlGjX8Z"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T18:22:43+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.43011s
+ CONTEXT: {"_legacy":true}
+2024-10-10T18:22:43+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T18:30:27+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728585023,"event_id":"eeaa51b7-0c0e-4281-9948-6f057857ab4a","event_source_url":"https:\/\/sincehence.store\/product-category\/cbd\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD REMEDIES","content_category":"CBD REMEDIES","content_ids":"[\"SHSUP-TB00037_105\",\"SHSUP-TB00045_89\",\"SHSUP-TB00030_119\",\"SHSUP-TB00029_121\",\"SHSUP-TB00031_117\",\"SHSUP-TB00044_91\",\"SHSUP-TB00046_87\",\"SHSUP-TB00047_85\"]","content_type":"product","contents":[{"id":"SHSUP-TB00037_105","quantity":1},{"id":"SHSUP-TB00045_89","quantity":1},{"id":"SHSUP-TB00030_119","quantity":1},{"id":"SHSUP-TB00029_121","quantity":1},{"id":"SHSUP-TB00031_117","quantity":1},{"id":"SHSUP-TB00044_91","quantity":1},{"id":"SHSUP-TB00046_87","quantity":1},{"id":"SHSUP-TB00047_85","quantity":1}]},"user_data":{"client_ip_address":"49.51.233.95","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45263s
+ CONTEXT: {"_legacy":true}
+2024-10-10T18:30:27+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ABKpyrxCo1DEZD-sRyRxQ1f"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T18:31:56+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728585113,"event_id":"d8c15ef8-7ee2-4e74-90ef-50bd61bff33c","event_source_url":"https:\/\/sincehence.store\/product\/instant-eye-lift-serum-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"Instant Eye Lift Serum for Fine Lines and Puffiness  | Potent Blend of Ingredients","content_ids":"[\"SHSUP-TB00042_95\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00042_95\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"43.135.133.194","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43669s
+ CONTEXT: {"_legacy":true}
+2024-10-10T18:31:56+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ay9xW9YIPkWa1gqj43q0GYT"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:10:48+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728587446,"event_id":"38d7994b-88d4-4817-8b11-0cc32338411b","event_source_url":"https:\/\/sincehence.store\/product-category\/pain-relief\/?v=7885444af42e","custom_data":{"content_name":"PAIN RELIEF","content_category":"PAIN RELIEF","content_ids":"[\"SHSUP-TB00004_171\",\"SHSUP-TB00002_175\",\"SHSUP-TB00001_177\",\"SHSUP-TB00003_173\",\"SHSUP-TB00007_165\",\"SHSUP-TB00005_169\",\"SHSUP-TB00006_167\",\"SHSUP-TB00008_163\"]","content_type":"product","contents":[{"id":"SHSUP-TB00004_171","quantity":1},{"id":"SHSUP-TB00002_175","quantity":1},{"id":"SHSUP-TB00001_177","quantity":1},{"id":"SHSUP-TB00003_173","quantity":1},{"id":"SHSUP-TB00007_165","quantity":1},{"id":"SHSUP-TB00005_169","quantity":1},{"id":"SHSUP-TB00006_167","quantity":1},{"id":"SHSUP-TB00008_163","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38424s
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:10:48+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A5viUvBcOMT8xhi3VQCmLbs"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:18:02+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.39792s
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:18:02+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:30:17+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728588614,"event_id":"47066cee-2c1b-4ad3-a261-4d9082f1ff9a","event_source_url":"https:\/\/sincehence.store\/product\/sleep-patch-30-days-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"Sleep Patches | 30 Days Pack | Achieve a Restful Night Sleep | Natural Ingredients","content_ids":"[\"SHSUP-TB00023_133\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00023_133\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"27.95","currency":"USD"},"user_data":{"client_ip_address":"54.187.9.79","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.41005s
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:30:17+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AQF4DrjkBDMKfihg8nwVqLP"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:48:15+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728589693,"event_id":"11a807bb-cb89-4c7e-b55f-427fd91e55a8","event_source_url":"https:\/\/sincehence.store\/product\/hair-restoration-ultimate-combo\/?v=0b3b97fa6688","custom_data":{"content_name":"Hair Growth Serum | Hair-Skin-Nails Supplement Combo | Ultimate Health","content_ids":"[\"SHSUP-TB00026_127\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00026_127\",\"quantity\":1}]","content_category":"HAIR GROWTH","value":"49.95","currency":"USD"},"user_data":{"client_ip_address":"35.86.131.61","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.41444s
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:48:15+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ADYGTFW-7RJq1qsH13e-O4s"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:54:50+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728590085,"event_id":"075fe94b-e26a-45e4-9424-edfc1c83c52e","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-15-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"Hangover Patches | 15 Patches | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00034_111\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00034_111\",\"quantity\":1}]","content_category":"HANGOVER","value":"15.95","currency":"USD"},"user_data":{"client_ip_address":"35.88.163.199","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40346s
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:54:50+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AchYXEBh624dBCVxeTAwInp"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:55:51+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728590149,"event_id":"a43f6b1e-dbba-491b-bc1a-fe439c9fc685","event_source_url":"https:\/\/sincehence.store\/product\/metabolism-boost-patches\/?v=0b3b97fa6688","custom_data":{"content_name":"Metabolism Boost Patches - 30 Patches for Weight Management Support - Fucus Vesiculosus, 5-HTP, Guarana Extract - Vegan, Made in the USA","content_ids":"[\"SHSUP-TB00048_83\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00048_83\",\"quantity\":1}]","content_category":"KETO","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"35.81.163.181","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37857s
+ CONTEXT: {"_legacy":true}
+2024-10-10T19:55:51+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A82PbN_o3N-ov_sMdJB0neA"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:04:34+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728590671,"event_id":"81bed131-e37b-47c7-9095-e1b060a24fe9","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-3-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"Hangover Patches | 3 Count | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00036_107\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00036_107\",\"quantity\":1}]","content_category":"HANGOVER","value":"7.95","currency":"USD"},"user_data":{"client_ip_address":"18.246.254.239","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39957s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:04:34+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A8mHKSJULMq7n9Xqlzcuhnq"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:05:01+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728590698,"event_id":"c23552c9-7db0-4a17-b53b-089736347e6b","event_source_url":"https:\/\/sincehence.store\/product\/cbd-capsule-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD Veggie Caps - 10MG CBD Isolate Per Capsule - 300MG Total - Vegan, GMO-Free, Made in the USA","content_ids":"[\"SHSUP-TB00046_87\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00046_87\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"18.246.255.243","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43245s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:05:01+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AcJceWlpwb43vj3VhWCT9JP"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:07:48+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728590864,"event_id":"e1e50a83-b4ab-412f-b6eb-5729aada7d0a","event_source_url":"https:\/\/sincehence.store\/product\/uric-acid-capsules\/?v=0b3b97fa6688","custom_data":{"content_name":"Uritic Acid Formula | Support Your Kidney and Gallbladder Health | Rich in Antioxidants and Vitamin C | 60 Capsules","content_ids":"[\"SHSUP-TB00015_149\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00015_149\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"54.184.42.228","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.51192s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:07:48+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AejF-hI4f832-V02lyH7i9N"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:15:10+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728591307,"event_id":"4e229459-0b97-4163-8112-b822dc1d3cbc","event_source_url":"https:\/\/sincehence.store\/product\/sleep-pillow-spray\/?v=0b3b97fa6688","custom_data":{"content_name":"Sleep Time Pillow Spray | Lavender Scent | Relaxation and Enhanced Sleep Quality","content_ids":"[\"SHSUP-TB00022_135\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00022_135\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"15.95","currency":"USD"},"user_data":{"client_ip_address":"35.86.34.167","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45602s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:15:10+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AEGN5_hpk97o1zrHKjWIsdW"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:17:55+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.44899s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:17:55+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:22:52+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728591770,"event_id":"5b217bea-7cb7-42b0-99ad-2b356600bccf","event_source_url":"https:\/\/sincehence.store\/product\/cleanse-capsule-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Advanced Formula for Digestive Aid Cleanse Capsules - Natural Dietary Supplement for Gut Health - Promotes Healthy Digestion and Eases Bloating","content_ids":"[\"SHSUP-TB00049_81\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00049_81\",\"quantity\":1}]","content_category":"KETO","value":"20.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.229","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40111s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:22:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ae1k4QI1jhL_9Ht5mGWcduV"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:23:01+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728591779,"event_id":"f727f404-ae8f-4a9b-9a95-e844d9ee96bf","event_source_url":"https:\/\/sincehence.store\/product\/keto-capsule-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Keto BHB Advanced Weight Loss Formula Capsules - Faster Ketosis, Enhanced Fat Burning, Increased Energy - 60 Capsules","content_ids":"[\"SHSUP-TB00050_79\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00050_79\",\"quantity\":1}]","content_category":"KETO","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.229","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38879s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:23:01+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AsBr8K3GPsTip6ceEspx6bs"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:24:10+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728591849,"event_id":"fb1cb376-82f2-4ec9-8662-dd8a26e8423d","event_source_url":"https:\/\/sincehence.store\/product\/potency-boosting-patches\/?v=0b3b97fa6688","custom_data":{"content_name":"Potency Patches | Natural Pain Relief | Immune System Support | 30 Day Supply | Men Health","content_ids":"[\"SHSUP-TB00038_103\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00038_103\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"35.89.105.121","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37544s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:24:10+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Aac4yY9KqGkxnAaQx5Yl9XX"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:24:30+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728591868,"event_id":"65451ea0-6b96-447f-9d4b-3fa393429207","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-24mg-extra-strength-patches-12-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD Patches | Pack of 12 | 24-Hour Relief | 24mg CBD Isolate | Convenient - Discreet - Targeted Application","content_ids":"[\"SHSUP-TB00002_175\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00002_175\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"35.94.26.110","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40511s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:24:30+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ao5sntMaPtdqe7MrHkKC7BQ"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:25:43+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728591941,"event_id":"f6048d67-4bc8-43cd-b69f-4b0ed2174928","event_source_url":"https:\/\/sincehence.store\/product\/testosterone-boost-capsules-single-bottle\/?fbclid=IwAR3n7OjFTgGe2Kc4uF37BwpAq-srxvdkuZ1YxTwna-ps8LIdg8TVWexq8zQ_aem_DYwCNZZYT8EFx9Qj5-JNqw&utm_medium=paid&utm_source=fb&utm_id=120211176581730316&utm_content=120211215982740316&utm_term=120211176581820316&utm_campaign=120211176581730316&v=7885444af42e","custom_data":{"content_name":"Testosterone Advanced Formula | Increase Testosterone Levels | 60 Capsules","content_ids":"[\"SHSUP-TB00040_99\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00040_99\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.238","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"fb.1.1728591941.IwAR3n7OjFTgGe2Kc4uF37BwpAq-srxvdkuZ1YxTwna-ps8LIdg8TVWexq8zQ_aem_DYwCNZZYT8EFx9Qj5-JNqw","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.3845s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:25:43+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AyqEHaU_xM7eH2rCUc4jKke"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:30:26+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728592224,"event_id":"23e5abf0-106f-408f-b280-e31274f3d793","event_source_url":"https:\/\/sincehence.store\/product\/hair-serum-60ml\/?v=0b3b97fa6688","custom_data":{"content_name":"Hair Growth Serum | 60ml | Revitalize and Strengthen Hair | Natural Ingredients | Fuller - Healthier Hair","content_ids":"[\"SHSUP-TB00028_123\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00028_123\",\"quantity\":1}]","content_category":"HAIR GROWTH","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"35.94.136.86","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40916s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:30:26+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"APF60QMgUksu7pv7hSL1ipq"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:37:25+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728592643,"event_id":"dbfb3fb5-2cb6-4297-8c4c-5b39510adffa","event_source_url":"https:\/\/sincehence.store\/product\/cbd-24mg-extra-strength-patches-30-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD Patches | 30 Pack | 24mg Extra Strength | Long-Lasting Relief | Convenient | Discreet","content_ids":"[\"SHSUP-TB00029_121\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00029_121\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"64.95","currency":"USD"},"user_data":{"client_ip_address":"35.86.250.195","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.3705s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:37:25+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AXyaRin_DD4rteSoWfftQwn"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:42:32+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728592949,"event_id":"1c13c1c5-02c3-462b-8266-115285b5f7af","event_source_url":"https:\/\/sincehence.store\/product\/choless-capsules\/?v=7885444af42e","custom_data":{"content_name":"Choless Suppliment |  Cholesterol Control Formula | 60 Vegan Capsules | Natural Ingredients","content_ids":"[\"SHSUP-TB00019_141\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00019_141\",\"quantity\":1}]","content_category":"KETO","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.230","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.42951s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:42:32+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ASSkxCRxppsEJ3XxnFLk00V"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:44:05+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728593043,"event_id":"d293c73f-2449-459f-b61e-0106625f8f7a","event_source_url":"https:\/\/sincehence.store\/product\/hair-serum-60ml\/?v=7885444af42e","custom_data":{"content_name":"Hair Growth Serum | 60ml | Revitalize and Strengthen Hair | Natural Ingredients | Fuller - Healthier Hair","content_ids":"[\"SHSUP-TB00028_123\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00028_123\",\"quantity\":1}]","content_category":"HAIR GROWTH","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.231","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37394s
+ CONTEXT: {"_legacy":true}
+2024-10-10T20:44:05+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ARGd1aO-5htksWP9_9mSxJ_"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T21:20:13+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.7517s
+ CONTEXT: {"_legacy":true}
+2024-10-10T21:20:13+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T21:20:14+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728595212,"event_id":"b59ff1ae-f303-473a-9488-e161b862a0d9","event_source_url":"https:\/\/sincehence.store\/product\/digestive-enzyme-capsules\/?v=7885444af42e","custom_data":{"content_name":"Digestive Enzyme Formula | 20 Potent Enzymes | Optimal Digestion | 60 Capsules | Supports Gluten Digestion | Plant-Based | Vegan","content_ids":"[\"SHSUP-TB00017_145\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00017_145\",\"quantity\":1}]","content_category":"KETO","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.230","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37946s
+ CONTEXT: {"_legacy":true}
+2024-10-10T21:20:14+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2R8B9kr-j2O62SNZww82Y9"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:02:54+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728597772,"event_id":"260f1a5b-0417-4131-9e96-c22b65bc922c","event_source_url":"https:\/\/sincehence.store\/product\/cbd-patches\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches - 8MG CBD Isolate Per Patch - 30 Patches - Long-Lasting 24-Hour Relief - Easy Application, Minimal Skin Irritation","content_ids":"[\"SHSUP-TB00045_89\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00045_89\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.230","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.70 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39551s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:02:54+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AAbaDjK59QCURuF9vUxmfoq"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:02:58+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728597775,"event_id":"7294b5ee-7377-4e97-8c89-e7c8c22d6c15","event_source_url":"https:\/\/sincehence.store\/product-category\/hangover\/?v=7885444af42e","custom_data":{"content_name":"HANGOVER","content_category":"HANGOVER","content_ids":"[\"SHSUP-TB00034_111\",\"SHSUP-TB00036_107\",\"SHSUP-TB00033_113\",\"SHSUP-TB00035_109\",\"SHSUP-TB00032_115\",\"SHSUP-TB00020_139\"]","content_type":"product","contents":[{"id":"SHSUP-TB00034_111","quantity":1},{"id":"SHSUP-TB00036_107","quantity":1},{"id":"SHSUP-TB00033_113","quantity":1},{"id":"SHSUP-TB00035_109","quantity":1},{"id":"SHSUP-TB00032_115","quantity":1},{"id":"SHSUP-TB00020_139","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.229","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.44286s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:02:58+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A6pbBL2tVPmeLXkvjq4D9wb"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:18:54+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.40714s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:18:54+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:43+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/987788172779218/product_feeds
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.81876s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:43+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"data":[{"id":"980052693510616","file_name":"SicneHence eComemrce Supplimet - Catalog - Feed","name":"SicneHence eComemrce Supplimet - Catalog - Feed"}],"paging":{"cursors":{"before":"QVFIUlpFTE9uUTRPVi0zSlAxcGNuMGlVNDEzMVVCdTNXYVhfNU80ZAXRhMk55eTR2eC11WGdRaHVmeDJ3aHRQUFVHSXo0RmtxZAkRXX3Fid1VwQjNhbG9fc093","after":"QVFIUlpFTE9uUTRPVi0zSlAxcGNuMGlVNDEzMVVCdTNXYVhfNU80ZAXRhMk55eTR2eC11WGdRaHVmeDJ3aHRQUFVHSXo0RmtxZAkRXX3Fid1VwQjNhbG9fc093"}}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:44+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/980052693510616/?fields=created_time,latest_upload,product_count,schedule,update_schedule
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 1.57681s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:44+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"created_time":"2024-06-05T19:21:45+0000","product_count":0,"id":"980052693510616"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:45+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business/fbe_installs?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.63848s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:45+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"280213847030763","onsite_eligible":false,"pixel_id":"820729112865218","profiles":["100481805425565","17841445880604158"],"ad_account_id":"307726204234823","catalog_id":"987788172779218","pages":["100481805425565"],"instagram_profiles":["17841445880604158"],"ig_shop":{"status":"NOT_SUBMITTED"},"token_type":"User","installed_features":[{"feature_instance_id":"813554103728373","feature_type":"ads","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","catalog_id":"987788172779218","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}},{"feature_instance_id":"798387502384774","feature_type":"pixel","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}},{"feature_instance_id":"777710937847014","feature_type":"catalog","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","catalog_id":"987788172779218","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}}]}]}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:20:45+00:00 NOTICE Retrieving page access token CONTEXT: {"_legacy":true}
+2024-10-10T22:24:11+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728599049,"event_id":"c3a92e9e-1f3d-4035-8cb6-80564523a2f2","event_source_url":"https:\/\/sincehence.store\/product\/blood-sugar-capsules\/?v=0b3b97fa6688","custom_data":{"content_name":"Blood Sugar Suppliments | Natural Suppliments |  Blood Sugar Support | 60 Capsules","content_ids":"[\"SHSUP-TB00013_153\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00013_153\",\"quantity\":1}]","content_category":"BLOOD SUGAR","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"44.243.17.109","client_user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37399s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:24:11+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AX3jYe03h-tWYZPIgULq5w5"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:49:49+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728600586,"event_id":"786079b1-1beb-42d8-a476-6ab5ffc984f6","event_source_url":"https:\/\/sincehence.store\/product\/metabolism-boost-patches\/?v=7885444af42e","custom_data":{"content_name":"Metabolism Boost Patches - 30 Patches for Weight Management Support - Fucus Vesiculosus, 5-HTP, Guarana Extract - Vegan, Made in the USA","content_ids":"[\"SHSUP-TB00048_83\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00048_83\",\"quantity\":1}]","content_category":"KETO","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.228","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.43008s
+ CONTEXT: {"_legacy":true}
+2024-10-10T22:49:49+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ArpLLLxTH0gHqaXFeR2EZCK"}
+ CONTEXT: {"_legacy":true}
+2024-10-10T23:17:53+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.4049s
+ CONTEXT: {"_legacy":true}
+2024-10-10T23:17:53+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-10T23:57:32+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728604650,"event_id":"ffee3a30-bbd6-471b-a395-dde6e1374d6d","event_source_url":"https:\/\/sincehence.store\/product\/cbd-24mg-extra-strength-patches-6-pack\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches | 6 Pack | 24mg Extra Strength | Long-Lasting Relief | Convenient | Discreet","content_ids":"[\"SHSUP-TB00031_117\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00031_117\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"14.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39336s
+ CONTEXT: {"_legacy":true}
+2024-10-10T23:57:32+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AwrJzHpQq5cGx9S7C1SmQkh"}
+ CONTEXT: {"_legacy":true}

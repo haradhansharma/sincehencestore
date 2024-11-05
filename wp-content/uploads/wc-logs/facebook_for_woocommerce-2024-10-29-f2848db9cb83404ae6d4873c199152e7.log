@@ -1,0 +1,375 @@
+2024-10-29T00:22:27+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.33981s
+ CONTEXT: {"_legacy":true}
+2024-10-29T00:22:27+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T00:36:49+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1730162202,"event_id":"dbb86b7d-3e00-4e1e-a059-23de38ccbfa1","event_source_url":"https:\/\/sincehence.store\/product-category\/hair\/?v=0b3b97fa6688","custom_data":{"content_name":"HAIR GROWTH","content_category":"HAIR GROWTH","content_ids":"[\"SHSUP-TB00027_125\",\"SHSUP-TB00028_123\",\"SHSUP-TB00026_127\"]","content_type":"product","contents":[{"id":"SHSUP-TB00027_125","quantity":1},{"id":"SHSUP-TB00028_123","quantity":1},{"id":"SHSUP-TB00026_127","quantity":1}]},"user_data":{"client_ip_address":"170.106.82.209","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37506s
+ CONTEXT: {"_legacy":true}
+2024-10-29T00:36:49+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AdZwSrCKtewR0PMfgbKatzI"}
+ CONTEXT: {"_legacy":true}
+2024-10-29T01:18:20+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.38958s
+ CONTEXT: {"_legacy":true}
+2024-10-29T01:18:20+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T02:20:56+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.35351s
+ CONTEXT: {"_legacy":true}
+2024-10-29T02:20:56+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T02:38:24+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1730169503,"event_id":"5830d4ce-53fb-4410-a68e-90698b4f6cc8","event_source_url":"https:\/\/sincehence.store\/product-category\/keto\/?v=7885444af42e","custom_data":{"content_name":"KETO","content_category":"KETO","content_ids":"[\"SHSUP-TB00049_81\",\"SHSUP-TB00019_141\",\"SHSUP-TB00017_145\",\"SHSUP-TB00016_147\",\"SHSUP-TB00050_79\",\"SHSUP-TB00048_83\",\"SHSUP-TB00018_143\"]","content_type":"product","contents":[{"id":"SHSUP-TB00049_81","quantity":1},{"id":"SHSUP-TB00019_141","quantity":1},{"id":"SHSUP-TB00017_145","quantity":1},{"id":"SHSUP-TB00016_147","quantity":1},{"id":"SHSUP-TB00050_79","quantity":1},{"id":"SHSUP-TB00048_83","quantity":1},{"id":"SHSUP-TB00018_143","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/130.0.6723.69 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.22351s
+ CONTEXT: {"_legacy":true}
+2024-10-29T02:38:24+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AqU75uspoZh9Mm9ZX7vTukg"}
+ CONTEXT: {"_legacy":true}
+2024-10-29T03:21:56+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.36418s
+ CONTEXT: {"_legacy":true}
+2024-10-29T03:21:56+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T03:37:28+00:00 NOTICE Generating a fresh product feed file CONTEXT: {"_legacy":true}
+2024-10-29T03:37:29+00:00 NOTICE Product feed file generated CONTEXT: {"_legacy":true}
+2024-10-29T04:18:35+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.30634s
+ CONTEXT: {"_legacy":true}
+2024-10-29T04:18:35+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T05:22:28+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.27284s
+ CONTEXT: {"_legacy":true}
+2024-10-29T05:22:28+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T06:22:27+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.41218s
+ CONTEXT: {"_legacy":true}
+2024-10-29T06:22:27+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T07:19:26+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.28913s
+ CONTEXT: {"_legacy":true}
+2024-10-29T07:19:26+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T08:21:24+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.43286s
+ CONTEXT: {"_legacy":true}
+2024-10-29T08:21:24+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T09:19:50+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.34459s
+ CONTEXT: {"_legacy":true}
+2024-10-29T09:19:50+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T10:19:09+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.30928s
+ CONTEXT: {"_legacy":true}
+2024-10-29T10:19:09+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T11:22:45+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.27444s
+ CONTEXT: {"_legacy":true}
+2024-10-29T11:22:45+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T12:17:37+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.28805s
+ CONTEXT: {"_legacy":true}
+2024-10-29T12:17:37+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T13:17:38+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.36227s
+ CONTEXT: {"_legacy":true}
+2024-10-29T13:17:38+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T13:26:58+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1730208416,"event_id":"8f00e016-7658-4b0d-8119-aaad356ee491","event_source_url":"https:\/\/sincehence.store\/product\/cbd-24mg-extra-strength-patches-6-pack\/?v=7885444af42e","custom_data":{"content_name":"CBD Patches | 6 Pack | 24mg Extra Strength | Long-Lasting Relief | Convenient | Discreet","content_ids":"[\"SHSUP-TB00031_117\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00031_117\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"14.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.238","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/130.0.6723.69 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.26153s
+ CONTEXT: {"_legacy":true}
+2024-10-29T13:26:58+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AVueDj2smofjy_trsaD05Ky"}
+ CONTEXT: {"_legacy":true}
+2024-10-29T14:22:33+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.31677s
+ CONTEXT: {"_legacy":true}
+2024-10-29T14:22:33+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T15:21:52+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.27377s
+ CONTEXT: {"_legacy":true}
+2024-10-29T15:21:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T16:18:36+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.33564s
+ CONTEXT: {"_legacy":true}
+2024-10-29T16:18:36+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T17:17:46+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.43598s
+ CONTEXT: {"_legacy":true}
+2024-10-29T17:17:46+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T18:17:32+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.37226s
+ CONTEXT: {"_legacy":true}
+2024-10-29T18:17:32+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T19:17:52+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.31908s
+ CONTEXT: {"_legacy":true}
+2024-10-29T19:17:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T20:01:19+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1730232076,"event_id":"37721ed1-a3bb-431a-a647-a993bbf56c13","event_source_url":"https:\/\/sincehence.store\/product\/beauty-face-cream-single-jar\/?v=7885444af42e","custom_data":{"content_name":"Anti-Wrinkle Face Cream | Natural Ingredients | Cream Jar | Paraben-free","content_ids":"[\"SHSUP-TB00043_93\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00043_93\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"30.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/130.0.6723.69 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.29162s
+ CONTEXT: {"_legacy":true}
+2024-10-29T20:01:19+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AOmZc14ZZ5_txbSZ4LGrmUM"}
+ CONTEXT: {"_legacy":true}
+2024-10-29T20:22:33+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.34582s
+ CONTEXT: {"_legacy":true}
+2024-10-29T20:22:33+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T21:22:36+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.29747s
+ CONTEXT: {"_legacy":true}
+2024-10-29T21:22:36+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:18:19+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.28919s
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:18:19+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:17+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/987788172779218/product_feeds
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.37007s
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:17+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"data":[{"id":"980052693510616","file_name":"SicneHence eComemrce Supplimet - Catalog - Feed","name":"SicneHence eComemrce Supplimet - Catalog - Feed"}],"paging":{"cursors":{"before":"QVFIUlpFTE9uUTRPVi0zSlAxcGNuMGlVNDEzMVVCdTNXYVhfNU80ZAXRhMk55eTR2eC11WGdRaHVmeDJ3aHRQUFVHSXo0RmtxZAkRXX3Fid1VwQjNhbG9fc093","after":"QVFIUlpFTE9uUTRPVi0zSlAxcGNuMGlVNDEzMVVCdTNXYVhfNU80ZAXRhMk55eTR2eC11WGdRaHVmeDJ3aHRQUFVHSXo0RmtxZAkRXX3Fid1VwQjNhbG9fc093"}}}
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:17+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/980052693510616/?fields=created_time,latest_upload,product_count,schedule,update_schedule
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.36116s
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:17+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"created_time":"2024-06-05T19:21:45+0000","product_count":0,"id":"980052693510616"}
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:18+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business/fbe_installs?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.5355s
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:18+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"280213847030763","onsite_eligible":false,"pixel_id":"820729112865218","profiles":["100481805425565","17841445880604158"],"ad_account_id":"307726204234823","catalog_id":"987788172779218","pages":["100481805425565"],"instagram_profiles":["17841445880604158"],"ig_shop":{"status":"NOT_SUBMITTED"},"token_type":"User","installed_features":[{"feature_instance_id":"813554103728373","feature_type":"ads","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","catalog_id":"987788172779218","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}},{"feature_instance_id":"798387502384774","feature_type":"pixel","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}},{"feature_instance_id":"777710937847014","feature_type":"catalog","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","catalog_id":"987788172779218","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}}]}]}
+ CONTEXT: {"_legacy":true}
+2024-10-29T22:20:18+00:00 NOTICE Retrieving page access token CONTEXT: {"_legacy":true}
+2024-10-29T23:22:30+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.29375s
+ CONTEXT: {"_legacy":true}
+2024-10-29T23:22:30+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}

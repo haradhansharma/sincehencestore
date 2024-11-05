@@ -1,0 +1,555 @@
+2024-10-12T00:18:01+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.40564s
+ CONTEXT: {"_legacy":true}
+2024-10-12T00:18:01+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T00:29:38+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728692961,"event_id":"19960d7a-71a1-4719-b33a-49ee95d27195","event_source_url":"https:\/\/sincehence.store\/product\/instant-eye-lift-serum-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"Instant Eye Lift Serum for Fine Lines and Puffiness  | Potent Blend of Ingredients","content_ids":"[\"SHSUP-TB00042_95\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00042_95\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"170.106.192.3","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37001s
+ CONTEXT: {"_legacy":true}
+2024-10-12T00:29:38+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ActKRqSVT13lDaZEOnkl4CD"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T01:18:06+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.49453s
+ CONTEXT: {"_legacy":true}
+2024-10-12T01:18:06+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T01:48:35+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728697713,"event_id":"e4126ff2-fc4f-4203-9bd1-5a1f3182ce8c","event_source_url":"https:\/\/sincehence.store\/product\/brain-support-capsules\/?v=7885444af42e","custom_data":{"content_name":"Brain Support Capsules | Blood Sugar Support | Natural Dietary Supplement","content_ids":"[\"SHSUP-TB00012_155\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00012_155\",\"quantity\":1}]","content_category":"BRAIN HEALTH","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39745s
+ CONTEXT: {"_legacy":true}
+2024-10-12T01:48:35+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A9RvvO0NPCXbGrDg8iLQVAk"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T02:19:23+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.41899s
+ CONTEXT: {"_legacy":true}
+2024-10-12T02:19:23+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T02:26:52+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728700010,"event_id":"9a84442a-0cac-4c17-a750-4fee3842ef60","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-6-pack\/?v=7885444af42e","custom_data":{"content_name":"Hangover Patches | 6 Patches | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00035_109\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00035_109\",\"quantity\":1}]","content_category":"HANGOVER","value":"10.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40988s
+ CONTEXT: {"_legacy":true}
+2024-10-12T02:26:52+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AE5uz8tCPSX2lscaoV_iUUr"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T03:12:43+00:00 NOTICE Generating a fresh product feed file CONTEXT: {"_legacy":true}
+2024-10-12T03:12:45+00:00 NOTICE Product feed file generated CONTEXT: {"_legacy":true}
+2024-10-12T03:18:02+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.4441s
+ CONTEXT: {"_legacy":true}
+2024-10-12T03:18:02+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T03:27:26+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728703644,"event_id":"facad253-df18-432b-b648-a58afd08f436","event_source_url":"https:\/\/sincehence.store\/product\/nitric-oxide-boost-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"N02 Nitric Oxide | Natural Vasodilator | For Energy and Performance | 60 Capsules","content_ids":"[\"SHSUP-TB00039_101\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00039_101\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"28.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38942s
+ CONTEXT: {"_legacy":true}
+2024-10-12T03:27:26+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKH1amBrh6kqAKoXI5iu2MQ"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:07:38+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728706055,"event_id":"1355a0b8-99d3-45ba-bba1-fe245fb8d0d3","event_source_url":"https:\/\/sincehence.store\/product\/hair-growth-caps-30-count\/?v=7885444af42e","custom_data":{"content_name":"Hair Growth Caps | 30 Count | Hair - Skin - Nails Advanced Formula","content_ids":"[\"SHSUP-TB00027_125\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00027_125\",\"quantity\":1}]","content_category":"HAIR GROWTH","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.53.24","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.39311s
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:07:38+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANR2icNsrRGoIjsj8khL-gK"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:18:06+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.46452s
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:18:06+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:29:22+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728707358,"event_id":"29e2e030-c788-4e16-9930-7a87c61db382","event_source_url":"https:\/\/sincehence.store\/product-category\/blood-sugar\/?v=7885444af42e","custom_data":{"content_name":"BLOOD SUGAR","content_category":"BLOOD SUGAR","content_ids":"[\"SHSUP-TB00014_151\",\"SHSUP-TB00013_153\"]","content_type":"product","contents":[{"id":"SHSUP-TB00014_151","quantity":1},{"id":"SHSUP-TB00013_153","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38095s
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:29:22+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AS2AAPBY0pi_B6gqfITdZgW"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:53:08+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728708786,"event_id":"84443258-c563-4b8a-940a-8dad9a3feda5","event_source_url":"https:\/\/sincehence.store\/product-category\/skin\/?v=7885444af42e","custom_data":{"content_name":"SKIN CARE AND BEAUTY","content_category":"SKIN CARE AND BEAUTY","content_ids":"[\"SHSUP-TB00041_97\",\"SHSUP-TB00043_93\",\"SHSUP-TB00042_95\"]","content_type":"product","contents":[{"id":"SHSUP-TB00041_97","quantity":1},{"id":"SHSUP-TB00043_93","quantity":1},{"id":"SHSUP-TB00042_95","quantity":1}]},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.41687s
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:53:08+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ad5j6AGa-GPVRIpKdOq5JfV"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:59:21+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728709158,"event_id":"bdcf9e47-ef75-4ac5-8e46-33198f5757cd","event_source_url":"https:\/\/sincehence.store\/product\/instant-eye-lift-serum-single-bottle\/?v=7885444af42e","custom_data":{"content_name":"Instant Eye Lift Serum for Fine Lines and Puffiness  | Potent Blend of Ingredients","content_ids":"[\"SHSUP-TB00042_95\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00042_95\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.238","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37849s
+ CONTEXT: {"_legacy":true}
+2024-10-12T04:59:21+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A-QiQ6CnG6MNXz88z_SRjRv"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T05:17:58+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.4642s
+ CONTEXT: {"_legacy":true}
+2024-10-12T05:17:59+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T05:29:07+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728710944,"event_id":"a3597871-d7b7-40e2-9fdc-a0e478872670","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-30-pack\/?v=7885444af42e","custom_data":{"content_name":"Hangover Patches | 30 Patches | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00033_113\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00033_113\",\"quantity\":1}]","content_category":"HANGOVER","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.237","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40192s
+ CONTEXT: {"_legacy":true}
+2024-10-12T05:29:07+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AIthOEDt6_BQZtBRkalN3Oo"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T06:18:12+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.47681s
+ CONTEXT: {"_legacy":true}
+2024-10-12T06:18:12+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T07:19:01+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.45528s
+ CONTEXT: {"_legacy":true}
+2024-10-12T07:19:01+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T08:14:54+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728720892,"event_id":"c325a6dd-84f2-49bb-b39e-38470d2ec9f4","event_source_url":"https:\/\/sincehence.store\/product\/cbd-capsule-single-bottle\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD Veggie Caps - 10MG CBD Isolate Per Capsule - 300MG Total - Vegan, GMO-Free, Made in the USA","content_ids":"[\"SHSUP-TB00046_87\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00046_87\",\"quantity\":1}]","content_category":"CBD REMEDIES","value":"25.95","currency":"USD"},"user_data":{"client_ip_address":"170.106.180.139","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40944s
+ CONTEXT: {"_legacy":true}
+2024-10-12T08:14:54+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ABwNXcqFKhiWl970Zp2gfwM"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T08:18:07+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.45229s
+ CONTEXT: {"_legacy":true}
+2024-10-12T08:18:07+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T08:40:19+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728722416,"event_id":"1423925f-2efe-4004-bfff-1811a633aa71","event_source_url":"https:\/\/sincehence.store\/product\/vitamin-c-skin-toning-serum\/?v=7885444af42e","custom_data":{"content_name":"Advanced Skin Toning Serum | Brighten Skin | Antioxidant","content_ids":"[\"SHSUP-TB00041_97\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00041_97\",\"quantity\":1}]","content_category":"SKIN CARE AND BEAUTY","value":"22.95","currency":"USD"},"user_data":{"client_ip_address":"47.128.23.125","client_user_agent":"Mozilla\/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/70.0.0.0 Safari\/537.36","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.3846s
+ CONTEXT: {"_legacy":true}
+2024-10-12T08:40:19+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANIT_EuaZg2z06LisxXmN_l"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T09:18:03+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.47007s
+ CONTEXT: {"_legacy":true}
+2024-10-12T09:18:03+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T09:43:16+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728726193,"event_id":"0e2b338e-b675-44a8-8bec-60bab6080abb","event_source_url":"https:\/\/sincehence.store\/product\/brain-support-capsules\/?v=0b3b97fa6688","custom_data":{"content_name":"Brain Support Capsules | Blood Sugar Support | Natural Dietary Supplement","content_ids":"[\"SHSUP-TB00012_155\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00012_155\",\"quantity\":1}]","content_category":"BRAIN HEALTH","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.13","client_user_agent":"facebookexternalhit\/1.1 (+http:\/\/www.facebook.com\/externalhit_uatext.php)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.4387s
+ CONTEXT: {"_legacy":true}
+2024-10-12T09:43:16+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AOKkL4it1cFMaMneCD2zbEv"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T09:57:27+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728727044,"event_id":"553ed373-f09d-4fcb-ba9a-f0c5f3ede458","event_source_url":"https:\/\/sincehence.store\/product\/uric-acid-capsules\/?v=7885444af42e","custom_data":{"content_name":"Uritic Acid Formula | Support Your Kidney and Gallbladder Health | Rich in Antioxidants and Vitamin C | 60 Capsules","content_ids":"[\"SHSUP-TB00015_149\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00015_149\",\"quantity\":1}]","content_category":"MENS HEALTH","value":"29.95","currency":"USD"},"user_data":{"client_ip_address":"57.141.5.17","client_user_agent":"meta-externalagent\/1.1 (+https:\/\/developers.facebook.com\/docs\/sharing\/webmasters\/crawler)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.45714s
+ CONTEXT: {"_legacy":true}
+2024-10-12T09:57:27+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A3_ci7hN-_ppSscq_yjMeoW"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T10:18:46+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.5699s
+ CONTEXT: {"_legacy":true}
+2024-10-12T10:18:46+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T11:17:57+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.46741s
+ CONTEXT: {"_legacy":true}
+2024-10-12T11:17:57+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T11:49:17+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728733755,"event_id":"2dcf0cc2-a04f-4f92-b3b8-4c0a98c3f507","event_source_url":"https:\/\/sincehence.store\/product\/sleep-pillow-spray\/?v=7885444af42e","custom_data":{"content_name":"Sleep Time Pillow Spray | Lavender Scent | Relaxation and Enhanced Sleep Quality","content_ids":"[\"SHSUP-TB00022_135\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00022_135\",\"quantity\":1}]","content_category":"SLEEP REMEDIES","value":"15.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.238","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.3963s
+ CONTEXT: {"_legacy":true}
+2024-10-12T11:49:17+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A17SoorAXAZleuvwHuGHwoE"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T12:20:02+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.49589s
+ CONTEXT: {"_legacy":true}
+2024-10-12T12:20:02+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T13:18:05+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.42414s
+ CONTEXT: {"_legacy":true}
+2024-10-12T13:18:05+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T14:22:59+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.50494s
+ CONTEXT: {"_legacy":true}
+2024-10-12T14:22:59+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T15:21:58+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.46939s
+ CONTEXT: {"_legacy":true}
+2024-10-12T15:21:58+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T15:24:16+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728746654,"event_id":"3fa62f74-6de9-49f5-895b-772a85252689","event_source_url":"https:\/\/sincehence.store\/product-category\/blood-sugar\/?v=0b3b97fa6688","custom_data":{"content_name":"BLOOD SUGAR","content_category":"BLOOD SUGAR","content_ids":"[\"SHSUP-TB00014_151\",\"SHSUP-TB00013_153\"]","content_type":"product","contents":[{"id":"SHSUP-TB00014_151","quantity":1},{"id":"SHSUP-TB00013_153","quantity":1}]},"user_data":{"client_ip_address":"43.159.143.187","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewCategory"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.38585s
+ CONTEXT: {"_legacy":true}
+2024-10-12T15:24:16+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"A2g7eyQCd7dMzCZSHXxUetg"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T16:17:41+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.47315s
+ CONTEXT: {"_legacy":true}
+2024-10-12T16:17:41+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T17:23:04+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 1.10493s
+ CONTEXT: {"_legacy":true}
+2024-10-12T17:23:04+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:12:28+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728756746,"event_id":"0dc3aa10-0103-422b-91a3-2427ecbb53f3","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-patches\/?v=7885444af42e","custom_data":{"content_name":"Pain Relief Patches | 8mg Topical CBD Patches | Pain Relief | Reduced Inflammation | Improved Sleep","content_ids":"[\"SHSUP-TB00006_167\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00006_167\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"24.95","currency":"USD"},"user_data":{"client_ip_address":"66.249.79.236","client_user_agent":"Mozilla\/5.0 (Linux; Android 6.0.1; Nexus 5X Build\/MMB29P) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/129.0.6668.89 Mobile Safari\/537.36 (compatible; Googlebot\/2.1; +http:\/\/www.google.com\/bot.html)","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40726s
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:12:28+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"ANSSolCTrmx2NshxpdYI5U-"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:22:58+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.45358s
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:22:58+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:28:18+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728757697,"event_id":"a814f1c2-7080-4126-9026-d8431bd6d405","event_source_url":"https:\/\/sincehence.store\/cart\/?add-to-cart=175","custom_data":{"content_ids":"[\"SHSUP-TB00002_175\"]","content_name":"CBD Patches | Pack of 12 | 24-Hour Relief | 24mg CBD Isolate | Convenient - Discreet - Targeted Application","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00002_175\",\"quantity\":1}]","value":29.95,"currency":"USD"},"user_data":{"client_ip_address":"43.159.128.237","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"AddToCart"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.35852s
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:28:18+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AO7jxAbivR4DAvesJmhKvlc"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:29:02+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728757740,"event_id":"fe7df37d-7a66-49b8-af49-ccc13854f8c1","event_source_url":"https:\/\/sincehence.store\/product\/pain-relief-24mg-extra-strength-patches-6-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"CBD Patches | Pack of 6 | 24-Hour Relief | 24mg CBD Isolate | Convenient - Discreet - Targeted Application","content_ids":"[\"SHSUP-TB00003_173\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00003_173\",\"quantity\":1}]","content_category":"PAIN RELIEF","value":"14.95","currency":"USD"},"user_data":{"client_ip_address":"43.130.16.140","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.40704s
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:29:02+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AalscJv1CqvrUSACe38wX_R"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:29:11+00:00 NOTICE Request
+method: POST
+uri: https://graph.facebook.com/v20.0/820729112865218/events
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body: {"data":[{"action_source":"website","event_time":1728757750,"event_id":"56582ca2-3cea-4955-a983-20452280963c","event_source_url":"https:\/\/sincehence.store\/product\/hangover-patches-3-pack\/?v=0b3b97fa6688","custom_data":{"content_name":"Hangover Patches | 3 Count | Ultimate Hangover Relief","content_ids":"[\"SHSUP-TB00036_107\"]","content_type":"product","contents":"[{\"id\":\"SHSUP-TB00036_107\",\"quantity\":1}]","content_category":"HANGOVER","value":"7.95","currency":"USD"},"user_data":{"client_ip_address":"43.135.140.225","client_user_agent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/13.0.3 Mobile\/15E148 Safari\/604.1","fbc":"","fbp":""},"event_name":"ViewContent"}],"partner_agent":"woocommerce-9.3.3-3.2.10"}
+duration: 0.37707s
+ CONTEXT: {"_legacy":true}
+2024-10-12T18:29:11+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"events_received":1,"messages":[],"fbtrace_id":"AKFZzM5jFW7Tg3D2I1gqGvz"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T19:17:55+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.48563s
+ CONTEXT: {"_legacy":true}
+2024-10-12T19:17:55+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T20:20:16+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.54917s
+ CONTEXT: {"_legacy":true}
+2024-10-12T20:20:16+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T21:22:56+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.41181s
+ CONTEXT: {"_legacy":true}
+2024-10-12T21:22:56+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:18:15+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.49281s
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:18:15+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:15+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/987788172779218/product_feeds
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.50059s
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:15+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"data":[{"id":"980052693510616","file_name":"SicneHence eComemrce Supplimet - Catalog - Feed","name":"SicneHence eComemrce Supplimet - Catalog - Feed"}],"paging":{"cursors":{"before":"QVFIUlpFTE9uUTRPVi0zSlAxcGNuMGlVNDEzMVVCdTNXYVhfNU80ZAXRhMk55eTR2eC11WGdRaHVmeDJ3aHRQUFVHSXo0RmtxZAkRXX3Fid1VwQjNhbG9fc093","after":"QVFIUlpFTE9uUTRPVi0zSlAxcGNuMGlVNDEzMVVCdTNXYVhfNU80ZAXRhMk55eTR2eC11WGdRaHVmeDJ3aHRQUFVHSXo0RmtxZAkRXX3Fid1VwQjNhbG9fc093"}}}
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:15+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/980052693510616/?fields=created_time,latest_upload,product_count,schedule,update_schedule
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.43375s
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:15+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"created_time":"2024-06-05T19:21:45+0000","product_count":0,"id":"980052693510616"}
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:16+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business/fbe_installs?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.59438s
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:16+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"data":[{"business_manager_id":"280213847030763","onsite_eligible":false,"pixel_id":"820729112865218","profiles":["100481805425565","17841445880604158"],"ad_account_id":"307726204234823","catalog_id":"987788172779218","pages":["100481805425565"],"instagram_profiles":["17841445880604158"],"ig_shop":{"status":"NOT_SUBMITTED"},"token_type":"User","installed_features":[{"feature_instance_id":"813554103728373","feature_type":"ads","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","catalog_id":"987788172779218","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}},{"feature_instance_id":"798387502384774","feature_type":"pixel","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}},{"feature_instance_id":"777710937847014","feature_type":"catalog","connected_assets":{"ad_account_id":"307726204234823","business_manager_id":"280213847030763","catalog_id":"987788172779218","ig_profile_id":"17841445880604158","page_id":"100481805425565","pixel_id":"820729112865218"},"additional_info":{"onsite_eligible":false,"pixel_is_consolidated_container":false}}]}]}
+ CONTEXT: {"_legacy":true}
+2024-10-12T22:20:16+00:00 NOTICE Retrieving page access token CONTEXT: {"_legacy":true}
+2024-10-12T23:18:03+00:00 NOTICE Request
+method: GET
+uri: https://graph.facebook.com/v20.0/fbe_business?fbe_external_business_id=sicnehenceecomemrce-665f929422055
+user-agent: Facebook-for-WooCommerce/3.2.10 (WooCommerce/9.3.3; WordPress/6.6.2)
+body:
+duration: 0.47482s
+ CONTEXT: {"_legacy":true}
+2024-10-12T23:18:03+00:00 NOTICE Response
+code: 200
+message: OK
+body: {"business":{"name":"SicneHence eComemrce"},"ads":[{"feature_instance_id":"813554103728373","enabled":true}],"catalogs":[{"feature_instance_id":"777710937847014","enabled":true}],"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"pixels":[{"feature_instance_id":"798387502384774","enabled":true}],"thread_intent":{"enabled":false}}
+ CONTEXT: {"_legacy":true}

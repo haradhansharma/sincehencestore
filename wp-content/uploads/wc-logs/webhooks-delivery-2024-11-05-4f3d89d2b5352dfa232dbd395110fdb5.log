@@ -1,0 +1,63 @@
+2024-11-05T11:22:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 19b0eb46b9fac02cd1819e525b2887bf
+            [Date] => Nov 5, 2024 @ 11:22
+            [URL] => https://tinybrander.com/transaction/wooCommerceWebhook/1335/e5a553d-3564
+            [Duration] => 0.86106
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.3.3 Hookshot (WordPress/6.6.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://sincehence.store/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 8znW6uchgaWI3AT6hR0p38nZ7ZY7C2V1HcszVOjybks=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 19b0eb46b9fac02cd1819e525b2887bf
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 05 Nov 2024 11:22:57 GMT
+                                    [server] => Apache
+                                    [expires] => Thu, 19 Nov 1981 08:52:00 GMT
+                                    [cache-control] => Array
+                                        (
+                                            [0] => no-store, no-cache, must-revalidate
+                                            [1] => max-age=600, private, must-revalidate
+                                        )
+
+                                    [pragma] => no-cache
+                                    [set-cookie] => ci_session=8fdd81c1f1e19dc1c82669ce23b21351fd0c3a73; expires=Tue, 05-Nov-2024 13:22:57 GMT; Max-Age=7200; path=/; HttpOnly
+                                    [referrer-policy] => no-referrer
+                                    [upgrade] => h2,h2c
+                                    [vary] => User-Agent
+                                    [access-control-allow-origin] => *
+                                    [access-control-allow-methods] => GET,POST,OPTIONS,DELETE,PUT
+                                    [content-length] => 0
+                                    [content-type] => text/html; charset=UTF-8
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

@@ -1,0 +1,19 @@
+2024-10-25T03:29:41+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v16.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "CUSTOMER_NOT_ENABLED"
+                    },
+                    "message": "The customer account can't be accessed because it is not yet enabled or has been deactivated."
+                }
+            ],
+            "requestId": "3vyvQAp6A4zvnxXSHQBoaA"
+        }
+    ]
+}

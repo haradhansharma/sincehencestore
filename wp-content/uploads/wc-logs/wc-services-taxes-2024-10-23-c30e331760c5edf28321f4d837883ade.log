@@ -1,0 +1,32 @@
+2024-10-23T11:50:22+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:50:31+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:50:34+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:50:34+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:50:35+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:27+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:27+00:00 NOTICE :::: TaxJar API called :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:27+00:00 NOTICE :::: TaxJar API request validation :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:27+00:00 NOTICE API request is in good format. (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:27+00:00 NOTICE Requesting: taxjar/v2/taxes - {"from_country":"GB","from_state":"","from_zip":"WC2H 9JQ","from_city":"LONDON","from_street":"71-75, Shelton Street","to_country":"US","to_state":"TX","to_zip":"75205","to_city":"Dallas","to_street":"3812 B Stratford Ave","shipping":"0","plugin":"woo","line_items":[{"id":"127-ec5decca5ed3d6b8079e2e7e7bacc9f2","quantity":1,"product_tax_code":"","unit_price":"49.95","discount":"0"},{"id":"141-0f28b5d49b3020afeecd95b4009adf4c","quantity":1,"product_tax_code":"","unit_price":"24.95","discount":"0"}]} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:27+00:00 NOTICE Received: {"tax":{"amount_to_collect":0,"freight_taxable":true,"has_nexus":false,"order_total_amount":74.9,"rate":0,"shipping":0.0,"tax_source":null,"taxable_amount":0}} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:34+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:34+00:00 NOTICE :::: TaxJar API called :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:34+00:00 NOTICE Received: {"tax":{"amount_to_collect":0,"freight_taxable":true,"has_nexus":false,"order_total_amount":74.9,"rate":0,"shipping":0.0,"tax_source":null,"taxable_amount":0}} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:34+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:34+00:00 NOTICE :::: TaxJar API called :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T11:51:34+00:00 NOTICE Received: {"tax":{"amount_to_collect":0,"freight_taxable":true,"has_nexus":false,"order_total_amount":74.9,"rate":0,"shipping":0.0,"tax_source":null,"taxable_amount":0}} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:05:33+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:05:36+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:05:36+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:01+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:01+00:00 NOTICE :::: TaxJar API called :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:01+00:00 NOTICE :::: TaxJar API request validation :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:01+00:00 NOTICE API request is in good format. (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:01+00:00 NOTICE Requesting: taxjar/v2/taxes - {"from_country":"GB","from_state":"","from_zip":"WC2H 9JQ","from_city":"LONDON","from_street":"71-75, Shelton Street","to_country":"US","to_state":"TX","to_zip":"75205","to_city":"Dallas","to_street":"3812 B Stratford Ave","shipping":"0","plugin":"woo","line_items":[{"id":"97-e2ef524fbf3d9fe611d5a8e90fefdc9c","quantity":1,"product_tax_code":"","unit_price":"22.95","discount":"0"}]} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:02+00:00 NOTICE Received: {"tax":{"amount_to_collect":0,"freight_taxable":true,"has_nexus":false,"order_total_amount":22.95,"rate":0,"shipping":0.0,"tax_source":null,"taxable_amount":0}} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:28+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:28+00:00 NOTICE :::: TaxJar API called :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:28+00:00 NOTICE Received: {"tax":{"amount_to_collect":0,"freight_taxable":true,"has_nexus":false,"order_total_amount":22.95,"rate":0,"shipping":0.0,"tax_source":null,"taxable_amount":0}} (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:28+00:00 NOTICE :::: TaxJar Plugin requested :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:28+00:00 NOTICE :::: TaxJar API called :::: (WCS Tax) CONTEXT: {"_legacy":true}
+2024-10-23T12:06:28+00:00 NOTICE Received: {"tax":{"amount_to_collect":0,"freight_taxable":true,"has_nexus":false,"order_total_amount":22.95,"rate":0,"shipping":0.0,"tax_source":null,"taxable_amount":0}} (WCS Tax) CONTEXT: {"_legacy":true}

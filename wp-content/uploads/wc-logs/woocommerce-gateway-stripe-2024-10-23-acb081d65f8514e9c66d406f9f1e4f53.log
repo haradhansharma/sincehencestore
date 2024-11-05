@@ -1,0 +1,1938 @@
+2024-10-23T01:57:22+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:23+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:24+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:25+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:25+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:26+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:27+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:28+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:28+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T01:57:29+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T03:57:32+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T05:59:47+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T08:02:29+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T10:02:53+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T11:51:36+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1QD367CPjevOheLTJ8xreAPx
+====End Log====
+
+2024-10-23T11:51:36+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/search request: Array
+(
+    [query] => name:'Zoe Hamilton' AND email:'zoehasdfsdfsdfsdfmilton@aol.com'
+)
+
+====End Log====
+
+2024-10-23T11:51:36+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/search response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T11:51:36+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers request: Array
+(
+    [email] => zoehasdfsdfsdfsdfmilton@aol.com
+    [description] => Name: Zoe Hamilton, Guest
+    [name] => Zoe Hamilton
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+    [address] => Array
+        (
+            [line1] => 3812 B Stratford Ave
+            [line2] => 
+            [postal_code] => 75205
+            [city] => Dallas
+            [state] => TX
+            [country] => US
+        )
+
+)
+
+====End Log====
+
+2024-10-23T11:51:37+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T11:51:37+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1QD367CPjevOheLTJ8xreAPx
+====End Log====
+
+2024-10-23T11:51:37+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents request: Array
+(
+    [capture_method] => automatic
+    [payment_method] => pm_1QD367CPjevOheLTJ8xreAPx
+    [shipping] => Array
+        (
+            [name] => Zoe Hamilton
+            [address] => Array
+                (
+                    [line1] => 3812 B Stratford Ave
+                    [line2] => 
+                    [city] => Dallas
+                    [country] => US
+                    [postal_code] => 75205
+                    [state] => TX
+                )
+
+        )
+
+    [mandate_data] => Array
+        (
+            [customer_acceptance] => Array
+                (
+                    [type] => online
+                    [online] => Array
+                        (
+                            [ip_address] => 49.206.135.93
+                            [user_agent] => WooCommerce Stripe Gateway8.8.0; https://sincehence.store
+                        )
+
+                )
+
+        )
+
+    [amount] => 7490
+    [confirm] => true
+    [currency] => usd
+    [customer] => cus_R5DX9Ci01ELmBG
+    [description] => SicneHence eComemrce Store - Order 1185
+    [metadata] => Array
+        (
+            [customer_name] => Zoe Hamilton
+            [customer_email] => zoehasdfsdfsdfsdfmilton@aol.com
+            [site_url] => https://sincehence.store
+            [order_id] => 1185
+            [order_key] => wc_order_IFNkD1inb0MG5
+            [payment_type] => single
+        )
+
+    [payment_method_types] => Array
+        (
+            [0] => card
+            [1] => link
+        )
+
+    [payment_method_options] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+2024-10-23T11:51:38+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T11:51:38+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+charges/ch_3QD36DCPjevOheLT1kcDDiZb request: Array
+(
+)
+
+====End Log====
+
+2024-10-23T11:51:39+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+charges/ch_3QD36DCPjevOheLT1kcDDiZb response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T11:51:39+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error: stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [charge] => ch_3QD36DCPjevOheLT1kcDDiZb
+            [code] => card_declined
+            [decline_code] => generic_decline
+            [doc_url] => https://stripe.com/docs/error-codes/card-declined
+            [message] => Your card was declined.
+            [payment_intent] => stdClass Object
+                (
+                    [id] => pi_3QD36DCPjevOheLT1rd8Xvrq
+                    [object] => payment_intent
+                    [amount] => 7490
+                    [amount_capturable] => 0
+                    [amount_details] => stdClass Object
+                        (
+                            [tip] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 0
+                    [application] => ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [client_secret] => pi_3QD36DCPjevOheLT1rd8Xvrq_secret_yAEiK4nSZxbUmZrGdeo0PtsZy
+                    [confirmation_method] => automatic
+                    [created] => 1729684297
+                    [currency] => usd
+                    [customer] => cus_R5DX9Ci01ELmBG
+                    [description] => SicneHence eComemrce Store - Order 1185
+                    [invoice] => 
+                    [last_payment_error] => stdClass Object
+                        (
+                            [charge] => ch_3QD36DCPjevOheLT1kcDDiZb
+                            [code] => card_declined
+                            [decline_code] => generic_decline
+                            [doc_url] => https://stripe.com/docs/error-codes/card-declined
+                            [message] => Your card was declined.
+                            [payment_method] => stdClass Object
+                                (
+                                    [id] => pm_1QD367CPjevOheLTJ8xreAPx
+                                    [object] => payment_method
+                                    [allow_redisplay] => unspecified
+                                    [billing_details] => stdClass Object
+                                        (
+                                            [address] => stdClass Object
+                                                (
+                                                    [city] => Dallas
+                                                    [country] => US
+                                                    [line1] => 3812 B Stratford Ave
+                                                    [line2] => 
+                                                    [postal_code] => 75205
+                                                    [state] => TX
+                                                )
+
+                                            [email] => zoehasdfsdfsdfsdfmilton@aol.com
+                                            [name] => Zoe Hamilton
+                                            [phone] => 13266149108
+                                        )
+
+                                    [card] => stdClass Object
+                                        (
+                                            [brand] => mastercard
+                                            [checks] => stdClass Object
+                                                (
+                                                    [address_line1_check] => unavailable
+                                                    [address_postal_code_check] => unavailable
+                                                    [cvc_check] => unavailable
+                                                )
+
+                                            [country] => US
+                                            [display_brand] => mastercard
+                                            [exp_month] => 10
+                                            [exp_year] => 2025
+                                            [fingerprint] => fwDvnvDxwJOgTf2B
+                                            [funding] => credit
+                                            [generated_from] => 
+                                            [last4] => 0002
+                                            [networks] => stdClass Object
+                                                (
+                                                    [available] => Array
+                                                        (
+                                                            [0] => mastercard
+                                                        )
+
+                                                    [preferred] => 
+                                                )
+
+                                            [three_d_secure_usage] => stdClass Object
+                                                (
+                                                    [supported] => 1
+                                                )
+
+                                            [wallet] => 
+                                        )
+
+                                    [created] => 1729684291
+                                    [customer] => 
+                                    [livemode] => 1
+                                    [metadata] => stdClass Object
+                                        (
+                                        )
+
+                                    [radar_options] => stdClass Object
+                                        (
+                                        )
+
+                                    [type] => card
+                                )
+
+                            [type] => card_error
+                        )
+
+                    [latest_charge] => ch_3QD36DCPjevOheLT1kcDDiZb
+                    [level3] => 
+                    [livemode] => 1
+                    [metadata] => stdClass Object
+                        (
+                            [order_key] => wc_order_IFNkD1inb0MG5
+                            [site_url] => https://sincehence.store
+                            [order_id] => 1185
+                            [payment_type] => single
+                            [customer_email] => zoehasdfsdfsdfsdfmilton@aol.com
+                            [customer_name] => Zoe Hamilton
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => 
+                    [payment_method_configuration_details] => 
+                    [payment_method_options] => stdClass Object
+                        (
+                            [card] => stdClass Object
+                                (
+                                    [installments] => 
+                                    [mandate_options] => 
+                                    [network] => 
+                                    [request_three_d_secure] => automatic
+                                )
+
+                            [link] => stdClass Object
+                                (
+                                    [persistent_token] => 
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                            [1] => link
+                        )
+
+                    [processing] => 
+                    [receipt_email] => zoehasdfsdfsdfsdfmilton@aol.com
+                    [review] => 
+                    [setup_future_usage] => 
+                    [shipping] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => Dallas
+                                    [country] => US
+                                    [line1] => 3812 B Stratford Ave
+                                    [line2] => 
+                                    [postal_code] => 75205
+                                    [state] => TX
+                                )
+
+                            [carrier] => 
+                            [name] => Zoe Hamilton
+                            [phone] => 
+                            [tracking_number] => 
+                        )
+
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => requires_payment_method
+                    [transfer_data] => 
+                    [transfer_group] => 
+                )
+
+            [payment_method] => stdClass Object
+                (
+                    [id] => pm_1QD367CPjevOheLTJ8xreAPx
+                    [object] => payment_method
+                    [allow_redisplay] => unspecified
+                    [billing_details] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => Dallas
+                                    [country] => US
+                                    [line1] => 3812 B Stratford Ave
+                                    [line2] => 
+                                    [postal_code] => 75205
+                                    [state] => TX
+                                )
+
+                            [email] => zoehasdfsdfsdfsdfmilton@aol.com
+                            [name] => Zoe Hamilton
+                            [phone] => 13266149108
+                        )
+
+                    [card] => stdClass Object
+                        (
+                            [brand] => mastercard
+                            [checks] => stdClass Object
+                                (
+                                    [address_line1_check] => unavailable
+                                    [address_postal_code_check] => unavailable
+                                    [cvc_check] => unavailable
+                                )
+
+                            [country] => US
+                            [display_brand] => mastercard
+                            [exp_month] => 10
+                            [exp_year] => 2025
+                            [fingerprint] => fwDvnvDxwJOgTf2B
+                            [funding] => credit
+                            [generated_from] => 
+                            [last4] => 0002
+                            [networks] => stdClass Object
+                                (
+                                    [available] => Array
+                                        (
+                                            [0] => mastercard
+                                        )
+
+                                    [preferred] => 
+                                )
+
+                            [three_d_secure_usage] => stdClass Object
+                                (
+                                    [supported] => 1
+                                )
+
+                            [wallet] => 
+                        )
+
+                    [created] => 1729684291
+                    [customer] => 
+                    [livemode] => 1
+                    [metadata] => stdClass Object
+                        (
+                        )
+
+                    [radar_options] => stdClass Object
+                        (
+                        )
+
+                    [type] => card
+                )
+
+            [request_log_url] => https://dashboard.stripe.com/acct_1GYVUACPjevOheLT/logs/req_WPlLGlGSFsq2pv?t=1729684297
+            [type] => card_error
+        )
+
+)
+
+====End Log====
+
+2024-10-23T11:51:40+00:00 DEBUG Webhook received: charge.failed
+2024-10-23T11:51:40+00:00 DEBUG Webhook body: {
+  "id": "evt_3QD36DCPjevOheLT191VOXNh",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1729684298,
+  "data": {
+    "object": {
+      "id": "ch_3QD36DCPjevOheLT1kcDDiZb",
+      "object": "charge",
+      "amount": 7490,
+      "amount_captured": 0,
+      "amount_refunded": 0,
+      "amount_updates": [
+
+      ],
+      "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+      "application_fee": null,
+      "application_fee_amount": null,
+      "balance_transaction": null,
+      "billing_details": {
+        "address": {
+          "city": "Dallas",
+          "country": "US",
+          "line1": "3812 B Stratford Ave",
+          "line2": "",
+          "postal_code": "75205",
+          "state": "TX"
+        },
+        "email": "zoehasdfsdfsdfsdfmilton@aol.com",
+        "name": "Zoe Hamilton",
+        "phone": "13266149108"
+      },
+      "calculated_statement_descriptor": null,
+      "captured": false,
+      "created": 1729684298,
+      "currency": "usd",
+      "customer": "cus_R5DX9Ci01ELmBG",
+      "description": "SicneHence eComemrce Store - Order 1185",
+      "destination": null,
+      "dispute": null,
+      "disputed": false,
+      "failure_balance_transaction": null,
+      "failure_code": "card_declined",
+      "failure_message": "Your card was declined.",
+      "fraud_details": {
+      },
+      "invoice": null,
+      "livemode": true,
+      "metadata": {
+        "order_key": "wc_order_IFNkD1inb0MG5",
+        "site_url": "https://sincehence.store",
+        "order_id": "1185",
+        "payment_type": "single",
+        "customer_email": "zoehasdfsdfsdfsdfmilton@aol.com",
+        "customer_name": "Zoe Hamilton"
+      },
+      "on_behalf_of": null,
+      "order": null,
+      "outcome": {
+        "network_status": "not_sent_to_network",
+        "reason": "highest_risk_level",
+        "risk_level": "highest",
+        "seller_message": "Stripe blocked this payment as too risky.",
+        "type": "blocked"
+      },
+      "paid": false,
+      "payment_intent": "pi_3QD36DCPjevOheLT1rd8Xvrq",
+      "payment_method": "pm_1QD367CPjevOheLTJ8xreAPx",
+      "payment_method_details": {
+        "card": {
+          "amount_authorized": null,
+          "authorization_code": null,
+          "brand": "mastercard",
+          "checks": {
+            "address_line1_check": "unavailable",
+            "address_postal_code_check": "unavailable",
+            "cvc_check": "unavailable"
+          },
+          "country": "US",
+          "exp_month": 10,
+          "exp_year": 2025,
+          "extended_authorization": {
+            "status": "disabled"
+          },
+          "fingerprint": "DnaeLd3hDC7wESCR",
+          "funding": "credit",
+          "incremental_authorization": {
+            "status": "unavailable"
+          },
+          "installments": null,
+          "last4": "0002",
+          "mandate": null,
+          "multicapture": {
+            "status": "unavailable"
+          },
+          "network": "mastercard",
+          "network_token": {
+            "used": false
+          },
+          "overcapture": {
+            "maximum_amount_capturable": 7490,
+            "status": "unavailable"
+          },
+          "three_d_secure": null,
+          "wallet": null
+        },
+        "type": "card"
+      },
+      "radar_options": {
+      },
+      "receipt_email": "zoehasdfsdfsdfsdfmilton@aol.com",
+      "receipt_number": null,
+      "receipt_url": null,
+      "refunded": false,
+      "refunds": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/charges/ch_3QD36DCPjevOheLT1kcDDiZb/refunds"
+      },
+      "review": null,
+      "shipping": {
+        "address": {
+          "city": "Dallas",
+          "country": "US",
+          "line1": "3812 B Stratford Ave",
+          "line2": "",
+          "postal_code": "75205",
+          "state": "TX"
+        },
+        "carrier": null,
+        "name": "Zoe Hamilton",
+        "phone": null,
+        "tracking_number": null
+      },
+      "source": null,
+      "source_transfer": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "failed",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_WPlLGlGSFsq2pv",
+    "idempotency_key": "2a2fa160-a374-49b7-bc18-7142c86c7f9b"
+  },
+  "type": "charge.failed"
+}
+2024-10-23T11:51:40+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Could not find order via charge ID: ch_3QD36DCPjevOheLT1kcDDiZb
+====End Log====
+
+2024-10-23T11:51:41+00:00 DEBUG Webhook received: payment_intent.payment_failed
+2024-10-23T11:51:41+00:00 DEBUG Webhook body: {
+  "id": "evt_3QD36DCPjevOheLT17NfPXJp",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1729684298,
+  "data": {
+    "object": {
+      "id": "pi_3QD36DCPjevOheLT1rd8Xvrq",
+      "object": "payment_intent",
+      "amount": 7490,
+      "amount_capturable": 0,
+      "amount_details": {
+        "tip": {
+        }
+      },
+      "amount_received": 0,
+      "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+      "application_fee_amount": null,
+      "automatic_payment_methods": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic",
+      "charges": {
+        "object": "list",
+        "data": [
+          {
+            "id": "ch_3QD36DCPjevOheLT1kcDDiZb",
+            "object": "charge",
+            "amount": 7490,
+            "amount_captured": 0,
+            "amount_refunded": 0,
+            "amount_updates": [
+
+            ],
+            "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+            "application_fee": null,
+            "application_fee_amount": null,
+            "balance_transaction": null,
+            "billing_details": {
+              "address": {
+                "city": "Dallas",
+                "country": "US",
+                "line1": "3812 B Stratford Ave",
+                "line2": "",
+                "postal_code": "75205",
+                "state": "TX"
+              },
+              "email": "zoehasdfsdfsdfsdfmilton@aol.com",
+              "name": "Zoe Hamilton",
+              "phone": "13266149108"
+            },
+            "calculated_statement_descriptor": null,
+            "captured": false,
+            "created": 1729684298,
+            "currency": "usd",
+            "customer": "cus_R5DX9Ci01ELmBG",
+            "description": "SicneHence eComemrce Store - Order 1185",
+            "destination": null,
+            "dispute": null,
+            "disputed": false,
+            "failure_balance_transaction": null,
+            "failure_code": "card_declined",
+            "failure_message": "Your card was declined.",
+            "fraud_details": {
+            },
+            "invoice": null,
+            "livemode": true,
+            "metadata": {
+              "order_key": "wc_order_IFNkD1inb0MG5",
+              "site_url": "https://sincehence.store",
+              "order_id": "1185",
+              "payment_type": "single",
+              "customer_email": "zoehasdfsdfsdfsdfmilton@aol.com",
+              "customer_name": "Zoe Hamilton"
+            },
+            "on_behalf_of": null,
+            "order": null,
+            "outcome": {
+              "network_status": "not_sent_to_network",
+              "reason": "highest_risk_level",
+              "risk_level": "highest",
+              "seller_message": "Stripe blocked this payment as too risky.",
+              "type": "blocked"
+            },
+            "paid": false,
+            "payment_intent": "pi_3QD36DCPjevOheLT1rd8Xvrq",
+            "payment_method": "pm_1QD367CPjevOheLTJ8xreAPx",
+            "payment_method_details": {
+              "card": {
+                "amount_authorized": null,
+                "authorization_code": null,
+                "brand": "mastercard",
+                "checks": {
+                  "address_line1_check": "unavailable",
+                  "address_postal_code_check": "unavailable",
+                  "cvc_check": "unavailable"
+                },
+                "country": "US",
+                "exp_month": 10,
+                "exp_year": 2025,
+                "extended_authorization": {
+                  "status": "disabled"
+                },
+                "fingerprint": "DnaeLd3hDC7wESCR",
+                "funding": "credit",
+                "incremental_authorization": {
+                  "status": "unavailable"
+                },
+                "installments": null,
+                "last4": "0002",
+                "mandate": null,
+                "multicapture": {
+                  "status": "unavailable"
+                },
+                "network": "mastercard",
+                "network_token": {
+                  "used": false
+                },
+                "overcapture": {
+                  "maximum_amount_capturable": 7490,
+                  "status": "unavailable"
+                },
+                "three_d_secure": null,
+                "wallet": null
+              },
+              "type": "card"
+            },
+            "radar_options": {
+            },
+            "receipt_email": "zoehasdfsdfsdfsdfmilton@aol.com",
+            "receipt_number": null,
+            "receipt_url": null,
+            "refunded": false,
+            "refunds": {
+              "object": "list",
+              "data": [
+
+              ],
+              "has_more": false,
+              "total_count": 0,
+              "url": "/v1/charges/ch_3QD36DCPjevOheLT1kcDDiZb/refunds"
+            },
+            "review": null,
+            "shipping": {
+              "address": {
+                "city": "Dallas",
+                "country": "US",
+                "line1": "3812 B Stratford Ave",
+                "line2": "",
+                "postal_code": "75205",
+                "state": "TX"
+              },
+              "carrier": null,
+              "name": "Zoe Hamilton",
+              "phone": null,
+              "tracking_number": null
+            },
+            "source": null,
+            "source_transfer": null,
+            "statement_descriptor": null,
+            "statement_descriptor_suffix": null,
+            "status": "failed",
+            "transfer_data": null,
+            "transfer_group": null
+          }
+        ],
+        "has_more": false,
+        "total_count": 1,
+        "url": "/v1/charges?payment_intent=pi_3QD36DCPjevOheLT1rd8Xvrq"
+      },
+      "client_secret": "pi_3QD36DCPjevOheLT1rd8Xvrq_secret_yAEiK4nSZxbUmZrGdeo0PtsZy",
+      "confirmation_method": "automatic",
+      "created": 1729684297,
+      "currency": "usd",
+      "customer": "cus_R5DX9Ci01ELmBG",
+      "description": "SicneHence eComemrce Store - Order 1185",
+      "invoice": null,
+      "last_payment_error": {
+        "charge": "ch_3QD36DCPjevOheLT1kcDDiZb",
+        "code": "card_declined",
+        "decline_code": "generic_decline",
+        "doc_url": "https://stripe.com/docs/error-codes/card-declined",
+        "message": "Your card was declined.",
+        "payment_method": {
+          "id": "pm_1QD367CPjevOheLTJ8xreAPx",
+          "object": "payment_method",
+          "allow_redisplay": "unspecified",
+          "billing_details": {
+            "address": {
+              "city": "Dallas",
+              "country": "US",
+              "line1": "3812 B Stratford Ave",
+              "line2": "",
+              "postal_code": "75205",
+              "state": "TX"
+            },
+            "email": "zoehasdfsdfsdfsdfmilton@aol.com",
+            "name": "Zoe Hamilton",
+            "phone": "13266149108"
+          },
+          "card": {
+            "brand": "mastercard",
+            "checks": {
+              "address_line1_check": "unavailable",
+              "address_postal_code_check": "unavailable",
+              "cvc_check": "unavailable"
+            },
+            "country": "US",
+            "display_brand": "mastercard",
+            "exp_month": 10,
+            "exp_year": 2025,
+            "fingerprint": "DnaeLd3hDC7wESCR",
+            "funding": "credit",
+            "generated_from": null,
+            "last4": "0002",
+            "networks": {
+              "available": [
+                "mastercard"
+              ],
+              "preferred": null
+            },
+            "three_d_secure_usage": {
+              "supported": true
+            },
+            "wallet": null
+          },
+          "created": 1729684291,
+          "customer": null,
+          "livemode": true,
+          "metadata": {
+          },
+          "radar_options": {
+          },
+          "type": "card"
+        },
+        "type": "card_error"
+      },
+      "latest_charge": "ch_3QD36DCPjevOheLT1kcDDiZb",
+      "livemode": true,
+      "metadata": {
+        "order_key": "wc_order_IFNkD1inb0MG5",
+        "site_url": "https://sincehence.store",
+        "order_id": "1185",
+        "payment_type": "single",
+        "customer_email": "zoehasdfsdfsdfsdfmilton@aol.com",
+        "customer_name": "Zoe Hamilton"
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": null,
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        },
+        "link": {
+          "persistent_token": null
+        }
+      },
+      "payment_method_types": [
+        "card",
+        "link"
+      ],
+      "processing": null,
+      "receipt_email": "zoehasdfsdfsdfsdfmilton@aol.com",
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": {
+        "address": {
+          "city": "Dallas",
+          "country": "US",
+          "line1": "3812 B Stratford Ave",
+          "line2": "",
+          "postal_code": "75205",
+          "state": "TX"
+        },
+        "carrier": null,
+        "name": "Zoe Hamilton",
+        "phone": null,
+        "tracking_number": null
+      },
+      "source": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "requires_payment_method",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_WPlLGlGSFsq2pv",
+    "idempotency_key": "2a2fa160-a374-49b7-bc18-7142c86c7f9b"
+  },
+  "type": "payment_intent.payment_failed"
+}
+2024-10-23T12:04:23+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T12:06:30+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1QD3KXCPjevOheLTVZxhHnh0
+====End Log====
+
+2024-10-23T12:06:30+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/search request: Array
+(
+    [query] => name:'Zeo hamilton' AND email:'zoehamilton@aol.com'
+)
+
+====End Log====
+
+2024-10-23T12:06:30+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/search response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T12:06:30+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers request: Array
+(
+    [email] => zoehamilton@aol.com
+    [description] => Name: Zeo hamilton, Guest
+    [name] => Zeo hamilton
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+    [address] => Array
+        (
+            [line1] => 3812 B Stratford Ave
+            [line2] => 
+            [postal_code] => 75205
+            [city] => Dallas
+            [state] => TX
+            [country] => US
+        )
+
+)
+
+====End Log====
+
+2024-10-23T12:06:31+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T12:06:31+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1QD3KXCPjevOheLTVZxhHnh0
+====End Log====
+
+2024-10-23T12:06:31+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents request: Array
+(
+    [capture_method] => automatic
+    [payment_method] => pm_1QD3KXCPjevOheLTVZxhHnh0
+    [shipping] => Array
+        (
+            [name] => Zeo hamilton
+            [address] => Array
+                (
+                    [line1] => 3812 B Stratford Ave
+                    [line2] => 
+                    [city] => Dallas
+                    [country] => US
+                    [postal_code] => 75205
+                    [state] => TX
+                )
+
+        )
+
+    [mandate_data] => Array
+        (
+            [customer_acceptance] => Array
+                (
+                    [type] => online
+                    [online] => Array
+                        (
+                            [ip_address] => 49.206.135.93
+                            [user_agent] => WooCommerce Stripe Gateway8.8.0; https://sincehence.store
+                        )
+
+                )
+
+        )
+
+    [amount] => 2295
+    [confirm] => true
+    [currency] => usd
+    [customer] => cus_R5DmTmxgP4phUk
+    [description] => SicneHence eComemrce Store - Order 1186
+    [metadata] => Array
+        (
+            [customer_name] => Zeo hamilton
+            [customer_email] => zoehamilton@aol.com
+            [site_url] => https://sincehence.store
+            [order_id] => 1186
+            [order_key] => wc_order_4qviIJMyz0DzT
+            [payment_type] => single
+        )
+
+    [payment_method_types] => Array
+        (
+            [0] => card
+            [1] => link
+        )
+
+    [payment_method_options] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+2024-10-23T12:06:32+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T12:06:32+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+charges/ch_3QD3KeCPjevOheLT1LsIepWV request: Array
+(
+)
+
+====End Log====
+
+2024-10-23T12:06:33+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+charges/ch_3QD3KeCPjevOheLT1LsIepWV response with stripe-version: 2024-06-20
+====End Log====
+
+2024-10-23T12:06:33+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error: stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [charge] => ch_3QD3KeCPjevOheLT1LsIepWV
+            [code] => card_declined
+            [decline_code] => generic_decline
+            [doc_url] => https://stripe.com/docs/error-codes/card-declined
+            [message] => Your card was declined.
+            [payment_intent] => stdClass Object
+                (
+                    [id] => pi_3QD3KeCPjevOheLT197TvCxZ
+                    [object] => payment_intent
+                    [amount] => 2295
+                    [amount_capturable] => 0
+                    [amount_details] => stdClass Object
+                        (
+                            [tip] => stdClass Object
+                                (
+                                )
+
+                        )
+
+                    [amount_received] => 0
+                    [application] => ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn
+                    [application_fee_amount] => 
+                    [automatic_payment_methods] => 
+                    [canceled_at] => 
+                    [cancellation_reason] => 
+                    [capture_method] => automatic
+                    [client_secret] => pi_3QD3KeCPjevOheLT197TvCxZ_secret_sXaMYXmOR0StptFLNQ13hdEo4
+                    [confirmation_method] => automatic
+                    [created] => 1729685192
+                    [currency] => usd
+                    [customer] => cus_R5DmTmxgP4phUk
+                    [description] => SicneHence eComemrce Store - Order 1186
+                    [invoice] => 
+                    [last_payment_error] => stdClass Object
+                        (
+                            [charge] => ch_3QD3KeCPjevOheLT1LsIepWV
+                            [code] => card_declined
+                            [decline_code] => generic_decline
+                            [doc_url] => https://stripe.com/docs/error-codes/card-declined
+                            [message] => Your card was declined.
+                            [payment_method] => stdClass Object
+                                (
+                                    [id] => pm_1QD3KXCPjevOheLTVZxhHnh0
+                                    [object] => payment_method
+                                    [allow_redisplay] => unspecified
+                                    [billing_details] => stdClass Object
+                                        (
+                                            [address] => stdClass Object
+                                                (
+                                                    [city] => Dallas
+                                                    [country] => US
+                                                    [line1] => 3812 B Stratford Ave
+                                                    [line2] => 
+                                                    [postal_code] => 75205
+                                                    [state] => TX
+                                                )
+
+                                            [email] => zoehamilton@aol.com
+                                            [name] => Zeo hamilton
+                                            [phone] => 13266149108
+                                        )
+
+                                    [card] => stdClass Object
+                                        (
+                                            [brand] => visa
+                                            [checks] => stdClass Object
+                                                (
+                                                    [address_line1_check] => unavailable
+                                                    [address_postal_code_check] => unavailable
+                                                    [cvc_check] => unavailable
+                                                )
+
+                                            [country] => US
+                                            [display_brand] => visa
+                                            [exp_month] => 11
+                                            [exp_year] => 2026
+                                            [fingerprint] => lTBor0DAWYJSqA4d
+                                            [funding] => credit
+                                            [generated_from] => 
+                                            [last4] => 3550
+                                            [networks] => stdClass Object
+                                                (
+                                                    [available] => Array
+                                                        (
+                                                            [0] => visa
+                                                        )
+
+                                                    [preferred] => 
+                                                )
+
+                                            [three_d_secure_usage] => stdClass Object
+                                                (
+                                                    [supported] => 1
+                                                )
+
+                                            [wallet] => 
+                                        )
+
+                                    [created] => 1729685185
+                                    [customer] => 
+                                    [livemode] => 1
+                                    [metadata] => stdClass Object
+                                        (
+                                        )
+
+                                    [radar_options] => stdClass Object
+                                        (
+                                        )
+
+                                    [type] => card
+                                )
+
+                            [type] => card_error
+                        )
+
+                    [latest_charge] => ch_3QD3KeCPjevOheLT1LsIepWV
+                    [level3] => 
+                    [livemode] => 1
+                    [metadata] => stdClass Object
+                        (
+                            [order_key] => wc_order_4qviIJMyz0DzT
+                            [site_url] => https://sincehence.store
+                            [order_id] => 1186
+                            [customer_email] => zoehamilton@aol.com
+                            [payment_type] => single
+                            [customer_name] => Zeo hamilton
+                        )
+
+                    [next_action] => 
+                    [on_behalf_of] => 
+                    [payment_method] => 
+                    [payment_method_configuration_details] => 
+                    [payment_method_options] => stdClass Object
+                        (
+                            [card] => stdClass Object
+                                (
+                                    [installments] => 
+                                    [mandate_options] => 
+                                    [network] => 
+                                    [request_three_d_secure] => automatic
+                                )
+
+                            [link] => stdClass Object
+                                (
+                                    [persistent_token] => 
+                                )
+
+                        )
+
+                    [payment_method_types] => Array
+                        (
+                            [0] => card
+                            [1] => link
+                        )
+
+                    [processing] => 
+                    [receipt_email] => zoehamilton@aol.com
+                    [review] => 
+                    [setup_future_usage] => 
+                    [shipping] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => Dallas
+                                    [country] => US
+                                    [line1] => 3812 B Stratford Ave
+                                    [line2] => 
+                                    [postal_code] => 75205
+                                    [state] => TX
+                                )
+
+                            [carrier] => 
+                            [name] => Zeo hamilton
+                            [phone] => 
+                            [tracking_number] => 
+                        )
+
+                    [source] => 
+                    [statement_descriptor] => 
+                    [statement_descriptor_suffix] => 
+                    [status] => requires_payment_method
+                    [transfer_data] => 
+                    [transfer_group] => 
+                )
+
+            [payment_method] => stdClass Object
+                (
+                    [id] => pm_1QD3KXCPjevOheLTVZxhHnh0
+                    [object] => payment_method
+                    [allow_redisplay] => unspecified
+                    [billing_details] => stdClass Object
+                        (
+                            [address] => stdClass Object
+                                (
+                                    [city] => Dallas
+                                    [country] => US
+                                    [line1] => 3812 B Stratford Ave
+                                    [line2] => 
+                                    [postal_code] => 75205
+                                    [state] => TX
+                                )
+
+                            [email] => zoehamilton@aol.com
+                            [name] => Zeo hamilton
+                            [phone] => 13266149108
+                        )
+
+                    [card] => stdClass Object
+                        (
+                            [brand] => visa
+                            [checks] => stdClass Object
+                                (
+                                    [address_line1_check] => unavailable
+                                    [address_postal_code_check] => unavailable
+                                    [cvc_check] => unavailable
+                                )
+
+                            [country] => US
+                            [display_brand] => visa
+                            [exp_month] => 11
+                            [exp_year] => 2026
+                            [fingerprint] => lTBor0DAWYJSqA4d
+                            [funding] => credit
+                            [generated_from] => 
+                            [last4] => 3550
+                            [networks] => stdClass Object
+                                (
+                                    [available] => Array
+                                        (
+                                            [0] => visa
+                                        )
+
+                                    [preferred] => 
+                                )
+
+                            [three_d_secure_usage] => stdClass Object
+                                (
+                                    [supported] => 1
+                                )
+
+                            [wallet] => 
+                        )
+
+                    [created] => 1729685185
+                    [customer] => 
+                    [livemode] => 1
+                    [metadata] => stdClass Object
+                        (
+                        )
+
+                    [radar_options] => stdClass Object
+                        (
+                        )
+
+                    [type] => card
+                )
+
+            [request_log_url] => https://dashboard.stripe.com/acct_1GYVUACPjevOheLT/logs/req_R69WT6DppbEZlC?t=1729685191
+            [type] => card_error
+        )
+
+)
+
+====End Log====
+
+2024-10-23T12:06:34+00:00 DEBUG Webhook received: charge.failed
+2024-10-23T12:06:34+00:00 DEBUG Webhook body: {
+  "id": "evt_3QD3KeCPjevOheLT1f2Wh2ux",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1729685192,
+  "data": {
+    "object": {
+      "id": "ch_3QD3KeCPjevOheLT1LsIepWV",
+      "object": "charge",
+      "amount": 2295,
+      "amount_captured": 0,
+      "amount_refunded": 0,
+      "amount_updates": [
+
+      ],
+      "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+      "application_fee": null,
+      "application_fee_amount": null,
+      "balance_transaction": null,
+      "billing_details": {
+        "address": {
+          "city": "Dallas",
+          "country": "US",
+          "line1": "3812 B Stratford Ave",
+          "line2": "",
+          "postal_code": "75205",
+          "state": "TX"
+        },
+        "email": "zoehamilton@aol.com",
+        "name": "Zeo hamilton",
+        "phone": "13266149108"
+      },
+      "calculated_statement_descriptor": null,
+      "captured": false,
+      "created": 1729685192,
+      "currency": "usd",
+      "customer": "cus_R5DmTmxgP4phUk",
+      "description": "SicneHence eComemrce Store - Order 1186",
+      "destination": null,
+      "dispute": null,
+      "disputed": false,
+      "failure_balance_transaction": null,
+      "failure_code": "card_declined",
+      "failure_message": "Your card was declined.",
+      "fraud_details": {
+      },
+      "invoice": null,
+      "livemode": true,
+      "metadata": {
+        "order_key": "wc_order_4qviIJMyz0DzT",
+        "site_url": "https://sincehence.store",
+        "order_id": "1186",
+        "customer_email": "zoehamilton@aol.com",
+        "payment_type": "single",
+        "customer_name": "Zeo hamilton"
+      },
+      "on_behalf_of": null,
+      "order": null,
+      "outcome": {
+        "network_status": "not_sent_to_network",
+        "reason": "highest_risk_level",
+        "risk_level": "highest",
+        "seller_message": "Stripe blocked this payment as too risky.",
+        "type": "blocked"
+      },
+      "paid": false,
+      "payment_intent": "pi_3QD3KeCPjevOheLT197TvCxZ",
+      "payment_method": "pm_1QD3KXCPjevOheLTVZxhHnh0",
+      "payment_method_details": {
+        "card": {
+          "amount_authorized": null,
+          "authorization_code": null,
+          "brand": "visa",
+          "checks": {
+            "address_line1_check": "unavailable",
+            "address_postal_code_check": "unavailable",
+            "cvc_check": "unavailable"
+          },
+          "country": "US",
+          "exp_month": 11,
+          "exp_year": 2026,
+          "extended_authorization": {
+            "status": "disabled"
+          },
+          "fingerprint": "F7EThyM6BhlhBfsT",
+          "funding": "credit",
+          "incremental_authorization": {
+            "status": "unavailable"
+          },
+          "installments": null,
+          "last4": "3550",
+          "mandate": null,
+          "multicapture": {
+            "status": "unavailable"
+          },
+          "network": "visa",
+          "network_token": {
+            "used": false
+          },
+          "overcapture": {
+            "maximum_amount_capturable": 2295,
+            "status": "unavailable"
+          },
+          "three_d_secure": null,
+          "wallet": null
+        },
+        "type": "card"
+      },
+      "radar_options": {
+      },
+      "receipt_email": "zoehamilton@aol.com",
+      "receipt_number": null,
+      "receipt_url": null,
+      "refunded": false,
+      "refunds": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/charges/ch_3QD3KeCPjevOheLT1LsIepWV/refunds"
+      },
+      "review": null,
+      "shipping": {
+        "address": {
+          "city": "Dallas",
+          "country": "US",
+          "line1": "3812 B Stratford Ave",
+          "line2": "",
+          "postal_code": "75205",
+          "state": "TX"
+        },
+        "carrier": null,
+        "name": "Zeo hamilton",
+        "phone": null,
+        "tracking_number": null
+      },
+      "source": null,
+      "source_transfer": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "failed",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_R69WT6DppbEZlC",
+    "idempotency_key": "aed5a2c7-1ba6-4bff-9959-7b19d6e56de9"
+  },
+  "type": "charge.failed"
+}
+2024-10-23T12:06:34+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Could not find order via charge ID: ch_3QD3KeCPjevOheLT1LsIepWV
+====End Log====
+
+2024-10-23T12:06:35+00:00 DEBUG Webhook received: payment_intent.payment_failed
+2024-10-23T12:06:35+00:00 DEBUG Webhook body: {
+  "id": "evt_3QD3KeCPjevOheLT1q5O7g8a",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1729685192,
+  "data": {
+    "object": {
+      "id": "pi_3QD3KeCPjevOheLT197TvCxZ",
+      "object": "payment_intent",
+      "amount": 2295,
+      "amount_capturable": 0,
+      "amount_details": {
+        "tip": {
+        }
+      },
+      "amount_received": 0,
+      "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+      "application_fee_amount": null,
+      "automatic_payment_methods": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic",
+      "charges": {
+        "object": "list",
+        "data": [
+          {
+            "id": "ch_3QD3KeCPjevOheLT1LsIepWV",
+            "object": "charge",
+            "amount": 2295,
+            "amount_captured": 0,
+            "amount_refunded": 0,
+            "amount_updates": [
+
+            ],
+            "application": "ca_BC3QvYOCCxiOW3Klo6zL8KlBgSHzwTKn",
+            "application_fee": null,
+            "application_fee_amount": null,
+            "balance_transaction": null,
+            "billing_details": {
+              "address": {
+                "city": "Dallas",
+                "country": "US",
+                "line1": "3812 B Stratford Ave",
+                "line2": "",
+                "postal_code": "75205",
+                "state": "TX"
+              },
+              "email": "zoehamilton@aol.com",
+              "name": "Zeo hamilton",
+              "phone": "13266149108"
+            },
+            "calculated_statement_descriptor": null,
+            "captured": false,
+            "created": 1729685192,
+            "currency": "usd",
+            "customer": "cus_R5DmTmxgP4phUk",
+            "description": "SicneHence eComemrce Store - Order 1186",
+            "destination": null,
+            "dispute": null,
+            "disputed": false,
+            "failure_balance_transaction": null,
+            "failure_code": "card_declined",
+            "failure_message": "Your card was declined.",
+            "fraud_details": {
+            },
+            "invoice": null,
+            "livemode": true,
+            "metadata": {
+              "order_key": "wc_order_4qviIJMyz0DzT",
+              "site_url": "https://sincehence.store",
+              "order_id": "1186",
+              "customer_email": "zoehamilton@aol.com",
+              "payment_type": "single",
+              "customer_name": "Zeo hamilton"
+            },
+            "on_behalf_of": null,
+            "order": null,
+            "outcome": {
+              "network_status": "not_sent_to_network",
+              "reason": "highest_risk_level",
+              "risk_level": "highest",
+              "seller_message": "Stripe blocked this payment as too risky.",
+              "type": "blocked"
+            },
+            "paid": false,
+            "payment_intent": "pi_3QD3KeCPjevOheLT197TvCxZ",
+            "payment_method": "pm_1QD3KXCPjevOheLTVZxhHnh0",
+            "payment_method_details": {
+              "card": {
+                "amount_authorized": null,
+                "authorization_code": null,
+                "brand": "visa",
+                "checks": {
+                  "address_line1_check": "unavailable",
+                  "address_postal_code_check": "unavailable",
+                  "cvc_check": "unavailable"
+                },
+                "country": "US",
+                "exp_month": 11,
+                "exp_year": 2026,
+                "extended_authorization": {
+                  "status": "disabled"
+                },
+                "fingerprint": "F7EThyM6BhlhBfsT",
+                "funding": "credit",
+                "incremental_authorization": {
+                  "status": "unavailable"
+                },
+                "installments": null,
+                "last4": "3550",
+                "mandate": null,
+                "multicapture": {
+                  "status": "unavailable"
+                },
+                "network": "visa",
+                "network_token": {
+                  "used": false
+                },
+                "overcapture": {
+                  "maximum_amount_capturable": 2295,
+                  "status": "unavailable"
+                },
+                "three_d_secure": null,
+                "wallet": null
+              },
+              "type": "card"
+            },
+            "radar_options": {
+            },
+            "receipt_email": "zoehamilton@aol.com",
+            "receipt_number": null,
+            "receipt_url": null,
+            "refunded": false,
+            "refunds": {
+              "object": "list",
+              "data": [
+
+              ],
+              "has_more": false,
+              "total_count": 0,
+              "url": "/v1/charges/ch_3QD3KeCPjevOheLT1LsIepWV/refunds"
+            },
+            "review": null,
+            "shipping": {
+              "address": {
+                "city": "Dallas",
+                "country": "US",
+                "line1": "3812 B Stratford Ave",
+                "line2": "",
+                "postal_code": "75205",
+                "state": "TX"
+              },
+              "carrier": null,
+              "name": "Zeo hamilton",
+              "phone": null,
+              "tracking_number": null
+            },
+            "source": null,
+            "source_transfer": null,
+            "statement_descriptor": null,
+            "statement_descriptor_suffix": null,
+            "status": "failed",
+            "transfer_data": null,
+            "transfer_group": null
+          }
+        ],
+        "has_more": false,
+        "total_count": 1,
+        "url": "/v1/charges?payment_intent=pi_3QD3KeCPjevOheLT197TvCxZ"
+      },
+      "client_secret": "pi_3QD3KeCPjevOheLT197TvCxZ_secret_sXaMYXmOR0StptFLNQ13hdEo4",
+      "confirmation_method": "automatic",
+      "created": 1729685192,
+      "currency": "usd",
+      "customer": "cus_R5DmTmxgP4phUk",
+      "description": "SicneHence eComemrce Store - Order 1186",
+      "invoice": null,
+      "last_payment_error": {
+        "charge": "ch_3QD3KeCPjevOheLT1LsIepWV",
+        "code": "card_declined",
+        "decline_code": "generic_decline",
+        "doc_url": "https://stripe.com/docs/error-codes/card-declined",
+        "message": "Your card was declined.",
+        "payment_method": {
+          "id": "pm_1QD3KXCPjevOheLTVZxhHnh0",
+          "object": "payment_method",
+          "allow_redisplay": "unspecified",
+          "billing_details": {
+            "address": {
+              "city": "Dallas",
+              "country": "US",
+              "line1": "3812 B Stratford Ave",
+              "line2": "",
+              "postal_code": "75205",
+              "state": "TX"
+            },
+            "email": "zoehamilton@aol.com",
+            "name": "Zeo hamilton",
+            "phone": "13266149108"
+          },
+          "card": {
+            "brand": "visa",
+            "checks": {
+              "address_line1_check": "unavailable",
+              "address_postal_code_check": "unavailable",
+              "cvc_check": "unavailable"
+            },
+            "country": "US",
+            "display_brand": "visa",
+            "exp_month": 11,
+            "exp_year": 2026,
+            "fingerprint": "F7EThyM6BhlhBfsT",
+            "funding": "credit",
+            "generated_from": null,
+            "last4": "3550",
+            "networks": {
+              "available": [
+                "visa"
+              ],
+              "preferred": null
+            },
+            "three_d_secure_usage": {
+              "supported": true
+            },
+            "wallet": null
+          },
+          "created": 1729685185,
+          "customer": null,
+          "livemode": true,
+          "metadata": {
+          },
+          "radar_options": {
+          },
+          "type": "card"
+        },
+        "type": "card_error"
+      },
+      "latest_charge": "ch_3QD3KeCPjevOheLT1LsIepWV",
+      "livemode": true,
+      "metadata": {
+        "order_key": "wc_order_4qviIJMyz0DzT",
+        "site_url": "https://sincehence.store",
+        "order_id": "1186",
+        "customer_email": "zoehamilton@aol.com",
+        "payment_type": "single",
+        "customer_name": "Zeo hamilton"
+      },
+      "next_action": null,
+      "on_behalf_of": null,
+      "payment_method": null,
+      "payment_method_configuration_details": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "mandate_options": null,
+          "network": null,
+          "request_three_d_secure": "automatic"
+        },
+        "link": {
+          "persistent_token": null
+        }
+      },
+      "payment_method_types": [
+        "card",
+        "link"
+      ],
+      "processing": null,
+      "receipt_email": "zoehamilton@aol.com",
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": {
+        "address": {
+          "city": "Dallas",
+          "country": "US",
+          "line1": "3812 B Stratford Ave",
+          "line2": "",
+          "postal_code": "75205",
+          "state": "TX"
+        },
+        "carrier": null,
+        "name": "Zeo hamilton",
+        "phone": null,
+        "tracking_number": null
+      },
+      "source": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "requires_payment_method",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_R69WT6DppbEZlC",
+    "idempotency_key": "aed5a2c7-1ba6-4bff-9959-7b19d6e56de9"
+  },
+  "type": "payment_intent.payment_failed"
+}
+2024-10-23T14:07:26+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T16:12:24+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T18:12:53+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T20:13:27+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2024-10-23T22:13:57+00:00 DEBUG 
+====Stripe Version: 8.8.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
